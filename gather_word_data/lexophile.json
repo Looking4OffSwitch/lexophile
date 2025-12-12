@@ -1,0 +1,4212 @@
+{
+  "metadata": {
+    "total_words": 229,
+    "created_date": "2025-07-14T08:31:43.829973",
+    "last_updated": "2025-07-15T11:05:47.566089",
+    "source": "Perplexity AI via lexophile word processor",
+    "word_list_file": "word_list_main.txt",
+    "longest_definition": "empyrean",
+    "longest_example_sentence": "anomie"
+  },
+  "words": {
+    "abase": {
+      "word": "abase",
+      "definition": "to lower in rank, prestige, or esteem; to humiliate or degrade someone",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "humiliate",
+        "degrade"
+      ],
+      "antonyms": [
+        "exalt",
+        "honor"
+      ],
+      "phonetic_spelling": "uh-bays",
+      "first_known_usage": "14th century",
+      "example_sentence": "The manager's harsh criticism served only to abase his employees in front of their colleagues.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:31:46.340881",
+      "error_reason": null
+    },
+    "abnegate": {
+      "word": "abnegate",
+      "definition": "to deny or renounce something, especially rights, privileges, or personal desires",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "renounce",
+        "relinquish"
+      ],
+      "antonyms": [
+        "accept",
+        "embrace"
+      ],
+      "phonetic_spelling": "ab-nih-gayt",
+      "first_known_usage": "17th century",
+      "example_sentence": "She chose to abnegate her personal interests for the sake of her family.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:31:50.816019",
+      "error_reason": null
+    },
+    "abrogate": {
+      "word": "abrogate",
+      "definition": "To officially repeal, abolish, or put an end to a law, agreement, or practice by formal or authoritative action.",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "revoke",
+        "annul"
+      ],
+      "antonyms": [
+        "enact",
+        "institute"
+      ],
+      "phonetic_spelling": "ab-ruh-gayt",
+      "first_known_usage": "16th century",
+      "example_sentence": "The council voted unanimously to abrogate the outdated ordinance.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:31:53.726345",
+      "error_reason": null
+    },
+    "abstemious": {
+      "word": "abstemious",
+      "definition": "exercising restraint or moderation, especially in eating or drinking",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "temperate",
+        "moderate"
+      ],
+      "antonyms": [
+        "gluttonous",
+        "self-indulgent"
+      ],
+      "phonetic_spelling": "ab-stee-mee-us",
+      "first_known_usage": "17th century",
+      "example_sentence": "Despite the banquet spread before him, he remained abstemious and chose only a small salad.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:31:57.402807",
+      "error_reason": null
+    },
+    "abstruse": {
+      "word": "abstruse",
+      "definition": "difficult to understand; obscure, or requiring significant intellectual effort to comprehend",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "arcane",
+        "incomprehensible"
+      ],
+      "antonyms": [
+        "clear",
+        "obvious"
+      ],
+      "phonetic_spelling": "ab-STROOS",
+      "first_known_usage": "16th century",
+      "example_sentence": "The professor’s lecture on quantum mechanics was so abstruse that only a few students could follow it.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:32:01.326018",
+      "error_reason": null
+    },
+    "accede": {
+      "word": "accede",
+      "definition": "To agree to a demand, request, or treaty, or to assume an office or position.",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "agree",
+        "assent"
+      ],
+      "antonyms": [
+        "abdicate",
+        "resign"
+      ],
+      "phonetic_spelling": "ak-seed",
+      "first_known_usage": "15th century",
+      "example_sentence": "The government decided to accede to the proposal after lengthy negotiations.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:32:04.773938",
+      "error_reason": null
+    },
+    "acerbic": {
+      "word": "acerbic",
+      "definition": "sharp or harshly critical in tone; having a sour or bitter taste",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "biting",
+        "caustic"
+      ],
+      "antonyms": [
+        "mild",
+        "gentle"
+      ],
+      "phonetic_spelling": "uh-SIR-bik",
+      "first_known_usage": "19th century",
+      "example_sentence": "The critic's acerbic remarks left the actor visibly upset.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:32:08.144264",
+      "error_reason": null
+    },
+    "acquisitive": {
+      "word": "acquisitive",
+      "definition": "having a strong desire to acquire or possess things, especially material possessions or wealth",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "greedy",
+        "covetous"
+      ],
+      "antonyms": [
+        "nonmaterialistic"
+      ],
+      "phonetic_spelling": "uh-kwiz-uh-tiv",
+      "first_known_usage": "17th century",
+      "example_sentence": "Her acquisitive habits led her to constantly buy new clothes and gadgets even when she didn't need them.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:32:11.141683",
+      "error_reason": null
+    },
+    "acrimonious": {
+      "word": "acrimonious",
+      "definition": "bitter and angry in tone, manner, or speech",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "bitter",
+        "rancorous"
+      ],
+      "antonyms": [
+        "harmonious",
+        "friendly"
+      ],
+      "phonetic_spelling": "ak-ruh-MOH-nee-us",
+      "first_known_usage": "16th century",
+      "example_sentence": "The debate became increasingly acrimonious, with both sides exchanging sharp and angry remarks.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T09:15:34.216469",
+      "error_reason": null
+    },
+    "adumbrate": {
+      "word": "adumbrate",
+      "definition": "To give a sketchy or shadowy outline of something; to foreshadow or suggest in a vague way.",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "foreshadow",
+        "outline"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "ad-um-brayt",
+      "first_known_usage": "16th century",
+      "example_sentence": "The candidate’s speech adumbrated the main points of her campaign without giving away specific details.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:32:16.900030",
+      "error_reason": null
+    },
+    "aleatory": {
+      "word": "aleatory",
+      "definition": "Depending on chance or random events; unpredictable or relating to elements chosen at random, especially in music or art.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "random",
+        "stochastic"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "EY-lee-uh-tor-ee",
+      "first_known_usage": "17th century",
+      "example_sentence": "The results of the contest were entirely aleatory, leaving everyone surprised by the outcome.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:32:20.801281",
+      "error_reason": null
+    },
+    "anathema": {
+      "word": "anathema",
+      "definition": "something or someone that is intensely disliked, loathed, or cursed, often referring to a formal ban or excommunication by a church",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "abomination",
+        "bane"
+      ],
+      "antonyms": [
+        "favorite",
+        "beloved"
+      ],
+      "phonetic_spelling": "uh-na-thuh-muh",
+      "first_known_usage": "16th century",
+      "example_sentence": "For the pacifist group, violence of any kind was anathema.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:32:24.019128",
+      "error_reason": null
+    },
+    "anfractuous": {
+      "word": "anfractuous",
+      "definition": "full of twists, turns, and windings; circuitous or sinuous",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "tortuous",
+        "sinuous"
+      ],
+      "antonyms": [
+        "straight",
+        "direct"
+      ],
+      "phonetic_spelling": "an-frak-choo-us",
+      "first_known_usage": "17th century",
+      "example_sentence": "The hikers carefully followed the anfractuous trail as it meandered through the dense forest.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:32:27.314338",
+      "error_reason": null
+    },
+    "anodyne": {
+      "word": "anodyne",
+      "definition": "Intended to avoid offense or disagreement; not likely to provoke strong emotions or relieve pain.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "bland",
+        "inoffensive"
+      ],
+      "antonyms": [
+        "provocative",
+        "exciting"
+      ],
+      "phonetic_spelling": "AN-uh-dine",
+      "first_known_usage": "16th century",
+      "example_sentence": "He tried to keep the conversation anodyne so as not to upset anyone in the group.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:32:31.392037",
+      "error_reason": null
+    },
+    "anomie": {
+      "word": "anomie",
+      "definition": "A condition of instability or normlessness resulting from the breakdown of standards, values, or social bonds, leading to a lack of purpose, identity, or ethical values in individuals or society.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "alienation",
+        "lawlessness"
+      ],
+      "antonyms": [
+        "order",
+        "cohesion"
+      ],
+      "phonetic_spelling": "AN-uh-mee",
+      "first_known_usage": "20th century",
+      "example_sentence": "After rapid changes in the community, many residents experienced a sense of anomie, feeling disconnected and uncertain about what was expected of them.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:32:35.607306",
+      "error_reason": null
+    },
+    "antipodean": {
+      "word": "antipodean",
+      "definition": "relating to or originating from Australia or New Zealand; also, situated on the opposite side of the globe",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "Australasian",
+        "southern"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "an-tip-uh-dee-uhn",
+      "first_known_usage": "17th century",
+      "example_sentence": "The film features several Antipodean actors who bring unique perspectives from Australia and New Zealand.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:32:39.466242",
+      "error_reason": null
+    },
+    "aposematic": {
+      "word": "aposematic",
+      "definition": "having coloration or markings that serve to warn or repel predators, indicating that an organism is dangerous or unpalatable",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "warning",
+        "defensive"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "ap-uh-suh-mat-ik",
+      "first_known_usage": "19th century",
+      "example_sentence": "The bright aposematic colors of the poison dart frog signal to predators that it is toxic and should not be eaten.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:32:43.698228",
+      "error_reason": null
+    },
+    "apotheosis": {
+      "word": "apotheosis",
+      "definition": "The elevation or exaltation of a person to the status of a god; the glorification of a person or thing; the highest or best example of something.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "deification",
+        "epitome"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "uh-poth-ee-OH-sis",
+      "first_known_usage": "17th century",
+      "example_sentence": "The scientist's groundbreaking discovery was hailed as the apotheosis of modern research.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:32:47.548809",
+      "error_reason": null
+    },
+    "apposite": {
+      "word": "apposite",
+      "definition": "fitting or appropriate to the situation; apt or relevant",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "appropriate",
+        "fitting"
+      ],
+      "antonyms": [
+        "irrelevant",
+        "inappropriate"
+      ],
+      "phonetic_spelling": "AP-uh-zit",
+      "first_known_usage": "17th century",
+      "example_sentence": "Her apposite comments helped clarify the confusing topic for everyone in the room.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:32:51.172739",
+      "error_reason": null
+    },
+    "approbation": {
+      "word": "approbation",
+      "definition": "official approval or praise, especially in a formal or public context",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "approval",
+        "praise"
+      ],
+      "antonyms": [
+        "disapproval",
+        "reproof"
+      ],
+      "phonetic_spelling": "ap-ruh-bay-shun",
+      "first_known_usage": "14th century",
+      "example_sentence": "The new policy received widespread approbation from community leaders, who praised its positive impact.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:32:54.630794",
+      "error_reason": null
+    },
+    "appurtenance": {
+      "word": "appurtenance",
+      "definition": "something subordinate to or belonging to another more important thing, often an accessory, adjunct, or an incidental right, privilege, or improvement that accompanies a principal property",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "accessory",
+        "adjunct"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "uh-pur-tuh-nuhns",
+      "first_known_usage": "14th century",
+      "example_sentence": "The garage is considered an appurtenance to the main house and is included with the property.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:32:58.032993",
+      "error_reason": null
+    },
+    "ascetic": {
+      "word": "ascetic",
+      "definition": "A person who leads a simple and strict life, avoiding physical pleasures and practicing severe self-discipline, often for religious reasons.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "recluse",
+        "hermit"
+      ],
+      "antonyms": [
+        "self-indulgent"
+      ],
+      "phonetic_spelling": "uh-seh-tik",
+      "first_known_usage": "17th century",
+      "example_sentence": "The monk lived an ascetic life, owning no possessions and spending his days in meditation and prayer.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:33:01.801901",
+      "error_reason": null
+    },
+    "asseverate": {
+      "word": "asseverate",
+      "definition": "to declare or affirm something seriously, earnestly, or with confidence",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "assert",
+        "affirm"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "uh-sev-uh-rayt",
+      "first_known_usage": "late 18th century",
+      "example_sentence": "During the meeting, she asseverated that all safety protocols had been followed.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:33:05.525205",
+      "error_reason": null
+    },
+    "assiduous": {
+      "word": "assiduous",
+      "definition": "showing great care, attention, and effort; diligent and persistent in working at a task",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "diligent",
+        "industrious"
+      ],
+      "antonyms": [
+        "lazy",
+        "negligent"
+      ],
+      "phonetic_spelling": "uh-sij-oo-uhs",
+      "first_known_usage": "16th century",
+      "example_sentence": "She was assiduous in her studies, always reviewing her notes and completing assignments ahead of time.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:33:10.494540",
+      "error_reason": null
+    },
+    "atavistic": {
+      "word": "atavistic",
+      "definition": "relating to or characterized by the reappearance of a trait or behavior after several generations of absence, often referring to something primitive or a throwback to an earlier type",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "primitive",
+        "throwback"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "at-uh-vis-tik",
+      "first_known_usage": "19th century",
+      "example_sentence": "Sitting around a campfire awakened an atavistic feeling, as if connecting with ancient ancestors.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:33:14.086391",
+      "error_reason": null
+    },
+    "austere": {
+      "word": "austere",
+      "definition": "simple or plain, not fancy; having a serious, stern, and unfriendly quality; strict and lacking in comfort or decoration",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "severe",
+        "spartan"
+      ],
+      "antonyms": [
+        "luxurious",
+        "comfortable"
+      ],
+      "phonetic_spelling": "aw-steer",
+      "first_known_usage": "14th century",
+      "example_sentence": "Despite his wealth, he chose to live in an austere apartment with only the basic necessities.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:33:17.878953",
+      "error_reason": null
+    },
+    "banal": {
+      "word": "banal",
+      "definition": "lacking originality or liveliness; boring, ordinary, or not interesting",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "trite",
+        "unoriginal"
+      ],
+      "antonyms": [
+        "original",
+        "provocative"
+      ],
+      "phonetic_spelling": "buh-nal",
+      "first_known_usage": "19th century",
+      "example_sentence": "His speech was full of banal comments that failed to capture anyone's attention.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:33:21.558236",
+      "error_reason": null
+    },
+    "bathos": {
+      "word": "bathos",
+      "definition": "a sudden shift from a serious or elevated style to a ridiculous or ordinary one, resulting in an anticlimactic effect",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "anticlimax",
+        "letdown"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "bay-thos",
+      "first_known_usage": "18th century",
+      "example_sentence": "The novel, after building suspense for a dramatic climax, ended with a villain slipping on a banana peel—a classic moment of bathos.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:33:24.861939",
+      "error_reason": null
+    },
+    "bellicose": {
+      "word": "bellicose",
+      "definition": "Inclined or eager to fight; aggressively hostile or demonstrating a willingness to argue or start conflict.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "aggressive",
+        "combative"
+      ],
+      "antonyms": [
+        "peaceful",
+        "conciliatory"
+      ],
+      "phonetic_spelling": "bel-i-kohs",
+      "first_known_usage": "15th century",
+      "example_sentence": "The politician's bellicose remarks made it clear he was ready for a heated debate.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:33:28.461176",
+      "error_reason": null
+    },
+    "blandish": {
+      "word": "blandish",
+      "definition": "To coax or persuade someone by using gentle flattery or cajolery.",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "cajole",
+        "flatter"
+      ],
+      "antonyms": [
+        "dissuade",
+        "offend"
+      ],
+      "phonetic_spelling": "blan-dish",
+      "first_known_usage": "14th century",
+      "example_sentence": "She tried to blandish her supervisor with compliments in hopes of receiving a promotion.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:33:32.107753",
+      "error_reason": null
+    },
+    "blandishment": {
+      "word": "blandishment",
+      "definition": "Flattering or ingratiating speech or actions intended to persuade, coax, or influence someone.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "cajolery",
+        "flattery"
+      ],
+      "antonyms": [
+        "criticism",
+        "rebuke"
+      ],
+      "phonetic_spelling": "blan-dish-muhnt",
+      "first_known_usage": "16th century",
+      "example_sentence": "The candidate relied on blandishment to win over skeptical voters.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:33:39.877850",
+      "error_reason": null
+    },
+    "cachinnate": {
+      "word": "cachinnate",
+      "definition": "to laugh loudly or immoderately",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "guffaw",
+        "cackle"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "KAK-uh-nayt",
+      "first_known_usage": "19th century",
+      "example_sentence": "The comedian's wild antics made the entire audience cachinnate until tears rolled down their faces.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:33:43.283860",
+      "error_reason": null
+    },
+    "calumny": {
+      "word": "calumny",
+      "definition": "The act of making false or malicious statements about someone to damage their reputation.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "slander",
+        "defamation"
+      ],
+      "antonyms": [
+        "praise",
+        "compliment"
+      ],
+      "phonetic_spelling": "kal-um-nee",
+      "first_known_usage": "14th century",
+      "example_sentence": "The calumny directed at the leader severely damaged his reputation within the community.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:33:46.855655",
+      "error_reason": null
+    },
+    "captious": {
+      "word": "captious",
+      "definition": "Tending to find fault or raise petty objections, often expressing unnecessary or trivial criticisms.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "carping",
+        "nitpicking"
+      ],
+      "antonyms": [
+        "tolerant",
+        "accepting"
+      ],
+      "phonetic_spelling": "kap-shuhs",
+      "first_known_usage": "14th century",
+      "example_sentence": "Her captious remarks during the meeting made it difficult to have a productive discussion.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:33:50.970895",
+      "error_reason": null
+    },
+    "castigate": {
+      "word": "castigate",
+      "definition": "to criticize or reprimand someone severely, often in an angry or harsh manner",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "reprimand",
+        "chastise"
+      ],
+      "antonyms": [
+        "praise",
+        "commend"
+      ],
+      "phonetic_spelling": "kas-tuh-gayt",
+      "first_known_usage": "17th century",
+      "example_sentence": "The teacher castigated the students for cheating on the exam.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:33:54.085024",
+      "error_reason": null
+    },
+    "cathexis": {
+      "word": "cathexis",
+      "definition": "The concentration of mental or emotional energy on a particular person, idea, or object, often to an intense or unhealthy degree.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "emotional investment",
+        "fixation"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "kuh-THEK-sis",
+      "first_known_usage": "20th century",
+      "example_sentence": "After the breakup, his cathexis with his former partner made it difficult for him to move on.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:33:58.075739",
+      "error_reason": null
+    },
+    "cavalier": {
+      "word": "cavalier",
+      "definition": "showing a lack of proper concern; haughty, disdainful, or displaying offhand disregard for others, or a gallant or courteous gentleman, especially a horseman or knight",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "haughty",
+        "nonchalant"
+      ],
+      "antonyms": [
+        "respectful",
+        "concerned"
+      ],
+      "phonetic_spelling": "kav-uh-leer",
+      "first_known_usage": "16th century",
+      "example_sentence": "He made a cavalier remark about the risks, showing little regard for the seriousness of the situation.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:34:01.839034",
+      "error_reason": null
+    },
+    "chicanery": {
+      "word": "chicanery",
+      "definition": "The use of trickery or deception to achieve a goal, often involving clever but dishonest maneuvers.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "trickery",
+        "deception"
+      ],
+      "antonyms": [
+        "honesty",
+        "truthfulness"
+      ],
+      "phonetic_spelling": "shi-kay-nuh-ree",
+      "first_known_usage": "16th century",
+      "example_sentence": "The company was accused of financial chicanery after misleading investors about its true earnings.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:34:05.511041",
+      "error_reason": null
+    },
+    "chimera": {
+      "word": "chimera",
+      "definition": "An imaginary or mythical creature composed of parts from different animals; figuratively, an unrealistic or wildly fanciful idea or hope.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "fantasy",
+        "illusion"
+      ],
+      "antonyms": [
+        "reality",
+        "certainty"
+      ],
+      "phonetic_spelling": "ky-MEER-uh",
+      "first_known_usage": "14th century",
+      "example_sentence": "The idea of building a city on the moon once seemed like a mere chimera, far beyond the reach of science.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:34:09.919043",
+      "error_reason": null
+    },
+    "chimerical": {
+      "word": "chimerical",
+      "definition": "existing only in the imagination; highly fanciful, unrealistic, or impossible",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "fanciful",
+        "illusory"
+      ],
+      "antonyms": [
+        "real",
+        "feasible"
+      ],
+      "phonetic_spelling": "kai-mer-i-kuhl",
+      "first_known_usage": "17th century",
+      "example_sentence": "Few people believed his chimerical plan to build a city in the clouds would ever succeed.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:34:13.706762",
+      "error_reason": null
+    },
+    "concomitant": {
+      "word": "concomitant",
+      "definition": "Naturally accompanying or associated; something that happens with something else and is connected with it.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "attendant",
+        "accompanying"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "kuhn-KOM-uh-tuhnt",
+      "first_known_usage": "17th century",
+      "example_sentence": "The new treatment has several concomitant side effects, including dizziness and fatigue.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T09:15:39.360230",
+      "error_reason": null
+    },
+    "contumacious": {
+      "word": "contumacious",
+      "definition": "stubbornly disobedient, insubordinate, or rebellious; obstinately resisting authority",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "insubordinate",
+        "refractory"
+      ],
+      "antonyms": [
+        "compliant",
+        "obedient"
+      ],
+      "phonetic_spelling": "kon-too-may-shuhs",
+      "first_known_usage": "16th century",
+      "example_sentence": "The contumacious student refused to follow the teacher's instructions, openly challenging every rule.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:34:19.436597",
+      "error_reason": null
+    },
+    "cosset": {
+      "word": "cosset",
+      "definition": "to care for and protect in an overindulgent or excessively pampering way",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "pamper",
+        "coddle"
+      ],
+      "antonyms": [
+        "neglect",
+        "ignore"
+      ],
+      "phonetic_spelling": "KOS-it",
+      "first_known_usage": "16th century",
+      "example_sentence": "Loving grandparents often cosset their grandchildren with treats and attention.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:34:23.791031",
+      "error_reason": null
+    },
+    "coterminous": {
+      "word": "coterminous",
+      "definition": "having the same border or end point, or covering the same area; being the same in extent, scope, or duration",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "coextensive",
+        "contiguous"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "koh-tur-muh-nuhs",
+      "first_known_usage": "18th century",
+      "example_sentence": "The boundaries of the two countries are coterminous, sharing the same border for hundreds of miles.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:34:28.570626",
+      "error_reason": null
+    },
+    "crepuscular": {
+      "word": "crepuscular",
+      "definition": "Relating to or resembling twilight; active during twilight or the period between day and night.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "twilight",
+        "dusky"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "kruh-puhs-kyuh-ler",
+      "first_known_usage": "17th century",
+      "example_sentence": "Many deer are crepuscular, meaning they are most active during the early evening and morning twilight.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:34:32.037739",
+      "error_reason": null
+    },
+    "cupidity": {
+      "word": "cupidity",
+      "definition": "a strong or excessive desire for money or possessions; greed",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "avarice",
+        "covetousness"
+      ],
+      "antonyms": [
+        "generosity",
+        "selflessness"
+      ],
+      "phonetic_spelling": "kyoo-pid-i-tee",
+      "first_known_usage": "15th century",
+      "example_sentence": "The businessman's cupidity led him to make risky investments in pursuit of even more wealth.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:34:35.789878",
+      "error_reason": null
+    },
+    "cynosure": {
+      "word": "cynosure",
+      "definition": "a person or thing that is the center of attention or admiration",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "focal point",
+        "centerpiece"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "SY-nuh-shur",
+      "first_known_usage": "16th century",
+      "example_sentence": "At the gala, the actress was the cynosure of all eyes, captivating everyone with her stunning dress.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:34:39.102517",
+      "error_reason": null
+    },
+    "dandle": {
+      "word": "dandle",
+      "definition": "To move a baby or small child up and down on the knees or in the arms in a playful or affectionate way.",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "bounce",
+        "jiggle"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "dan-dl",
+      "first_known_usage": "16th century",
+      "example_sentence": "She would dandle the baby on her knee to make him giggle.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:34:42.442957",
+      "error_reason": null
+    },
+    "deleterious": {
+      "word": "deleterious",
+      "definition": "causing harm or damage",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "harmful",
+        "damaging"
+      ],
+      "antonyms": [
+        "beneficial",
+        "benign"
+      ],
+      "phonetic_spelling": "del-uh-teer-ee-uhs",
+      "first_known_usage": "17th century",
+      "example_sentence": "Prolonged exposure to loud noise can have a deleterious effect on your hearing.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:34:46.066614",
+      "error_reason": null
+    },
+    "denouement": {
+      "word": "denouement",
+      "definition": "the final part of a story, play, or series of events in which loose ends are tied up and a sense of resolution or clarification is achieved",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "conclusion",
+        "resolution"
+      ],
+      "antonyms": [
+        "beginning",
+        "introduction"
+      ],
+      "phonetic_spelling": "day-noo-mahn",
+      "first_known_usage": "18th century",
+      "example_sentence": "The denouement of the novel revealed the true identity of the mysterious stranger and resolved all lingering mysteries.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:34:49.768065",
+      "error_reason": null
+    },
+    "desuetude": {
+      "word": "desuetude",
+      "definition": "the condition of not being used or practiced any more; disuse",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "disuse",
+        "inactivity"
+      ],
+      "antonyms": [
+        "use",
+        "practice"
+      ],
+      "phonetic_spelling": "DES-wuh-tyood",
+      "first_known_usage": "15th century",
+      "example_sentence": "After years of desuetude, the old railway station became overgrown and forgotten by the community.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:34:53.113732",
+      "error_reason": null
+    },
+    "diaphanous": {
+      "word": "diaphanous",
+      "definition": "Light, delicate, and translucent, especially when describing fabric; almost transparent or sheer.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "sheer",
+        "translucent"
+      ],
+      "antonyms": [
+        "opaque",
+        "thick"
+      ],
+      "phonetic_spelling": "dye-af-uh-nuhs",
+      "first_known_usage": "17th century",
+      "example_sentence": "The morning sunlight streamed through the diaphanous curtains, softly illuminating the room.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:34:56.936108",
+      "error_reason": null
+    },
+    "didactic": {
+      "word": "didactic",
+      "definition": "intended to teach or instruct, often in a formal, structured, or moralistic way",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "instructive",
+        "educational"
+      ],
+      "antonyms": [
+        "uninstructive",
+        "uninformative"
+      ],
+      "phonetic_spelling": "dy-DAK-tik",
+      "first_known_usage": "17th century",
+      "example_sentence": "The teacher used a didactic approach, making sure every lesson was designed to educate her students clearly and thoroughly.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:35:00.993819",
+      "error_reason": null
+    },
+    "diffident": {
+      "word": "diffident",
+      "definition": "lacking self-confidence; shy and not willing to talk about yourself or be noticed by other people",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "shy",
+        "reserved"
+      ],
+      "antonyms": [
+        "confident",
+        "bold"
+      ],
+      "phonetic_spelling": "dif-ih-dnt",
+      "first_known_usage": "15th century",
+      "example_sentence": "She was too diffident to speak up in the meeting, staying quiet in her seat.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:35:04.438109",
+      "error_reason": null
+    },
+    "dilatory": {
+      "word": "dilatory",
+      "definition": "Tending to delay or procrastinate; intended to cause delay or be slow in taking action.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "procrastinating",
+        "tardy"
+      ],
+      "antonyms": [
+        "prompt",
+        "punctual"
+      ],
+      "phonetic_spelling": "dil-uh-tor-ee",
+      "first_known_usage": "15th century",
+      "example_sentence": "The committee's dilatory handling of the issue frustrated everyone waiting for a decision.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:35:07.987988",
+      "error_reason": null
+    },
+    "divagation": {
+      "word": "divagation",
+      "definition": "a departure from the main topic or path, especially in speech, writing, or movement; the act of wandering or straying from a course",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "digression",
+        "excursus"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "dye-vuh-gay-shun",
+      "first_known_usage": "17th century",
+      "example_sentence": "The speaker's frequent divagation from the subject confused the audience and made it hard to follow his argument.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:35:14.521204",
+      "error_reason": null
+    },
+    "doggerel": {
+      "word": "doggerel",
+      "definition": "Trivial, awkward, or badly written verse, often comic and characterized by irregular rhythm or rhyme.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "jingle",
+        "nonsense poetry"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "daw-guh-ruhl",
+      "first_known_usage": "14th century",
+      "example_sentence": "He wrote a few lines of doggerel to make his friends laugh, knowing the poetry was intentionally clumsy.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:35:18.034011",
+      "error_reason": null
+    },
+    "dolorous": {
+      "word": "dolorous",
+      "definition": "feeling, showing, or causing grief or sorrow; very sorrowful or sad; mournful",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "mournful",
+        "sorrowful"
+      ],
+      "antonyms": [
+        "joyful",
+        "cheerful"
+      ],
+      "phonetic_spelling": "doh-luh-ruhs",
+      "first_known_usage": "14th century",
+      "example_sentence": "The funeral was marked by a dolorous silence that weighed heavily on everyone in attendance.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:35:22.011415",
+      "error_reason": null
+    },
+    "ebullient": {
+      "word": "ebullient",
+      "definition": "Cheerful, lively, and full of energy; overflowing with enthusiasm or excitement.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "exuberant",
+        "vivacious"
+      ],
+      "antonyms": [
+        "depressed",
+        "subdued"
+      ],
+      "phonetic_spelling": "ih-buhl-yunt",
+      "first_known_usage": "16th century",
+      "example_sentence": "Her ebullient personality made her the highlight of every party she attended.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:35:25.180407",
+      "error_reason": null
+    },
+    "eclectic": {
+      "word": "eclectic",
+      "definition": "selecting or composed from a variety of sources, styles, or ideas, rather than adhering to a single approach",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "diverse",
+        "varied"
+      ],
+      "antonyms": [
+        "uniform",
+        "narrow"
+      ],
+      "phonetic_spelling": "ih-klek-tik",
+      "first_known_usage": "17th century",
+      "example_sentence": "She has an eclectic collection of art, featuring pieces from many different cultures and time periods.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:35:28.343091",
+      "error_reason": null
+    },
+    "effete": {
+      "word": "effete",
+      "definition": "lacking strength, vigor, or effectiveness; weak, exhausted, or decadent, often as a result of overrefinement or self-indulgence",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "decadent",
+        "powerless"
+      ],
+      "antonyms": [
+        "vigorous",
+        "robust"
+      ],
+      "phonetic_spelling": "ih-feet",
+      "first_known_usage": "17th century",
+      "example_sentence": "After years of privilege and comfort, the aristocracy had become effete and unable to respond to the growing challenges.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:35:32.427614",
+      "error_reason": null
+    },
+    "efficacious": {
+      "word": "efficacious",
+      "definition": "capable of producing the desired or intended result; effective, especially in reference to things like remedies, treatments, or measures",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "effective",
+        "successful"
+      ],
+      "antonyms": [
+        "ineffective",
+        "useless"
+      ],
+      "phonetic_spelling": "ef-uh-kay-shus",
+      "first_known_usage": "16th century",
+      "example_sentence": "The new vaccine proved highly efficacious in preventing the spread of the disease.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:35:36.772624",
+      "error_reason": null
+    },
+    "empyrean": {
+      "word": "empyrean",
+      "definition": "the highest heaven or celestial sphere, especially in ancient and medieval cosmology, regarded as the realm of pure light or fire and often considered the abode of God or the gods; more generally, the sky or the visible heavens",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "firmament",
+        "heavens"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "em-peer-ee-an",
+      "first_known_usage": "17th century",
+      "example_sentence": "The stars glittered across the empyrean, filling the night sky with a sense of infinite wonder.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:35:40.755795",
+      "error_reason": null
+    },
+    "encomium": {
+      "word": "encomium",
+      "definition": "a speech or piece of writing that highly praises someone or something",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "eulogy",
+        "panegyric"
+      ],
+      "antonyms": [
+        "invective"
+      ],
+      "phonetic_spelling": "en-KO-mee-um",
+      "first_known_usage": "16th century",
+      "example_sentence": "The retiring professor received an eloquent encomium from her colleagues, celebrating her years of dedicated service.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:35:46.073312",
+      "error_reason": null
+    },
+    "enervate": {
+      "word": "enervate",
+      "definition": "To weaken or drain of energy, strength, or vitality.",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "weaken",
+        "exhaust"
+      ],
+      "antonyms": [
+        "energize",
+        "strengthen"
+      ],
+      "phonetic_spelling": "EN-er-vayt",
+      "first_known_usage": "17th century",
+      "example_sentence": "Extended periods of excessive heat can enervate even the most physically fit individuals.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:35:49.667552",
+      "error_reason": null
+    },
+    "ensorcel": {
+      "word": "ensorcel",
+      "definition": "to bewitch, enchant, or captivate as if by magic",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "bewitch",
+        "enchant"
+      ],
+      "antonyms": [
+        "disenchant",
+        "repel"
+      ],
+      "phonetic_spelling": "en-sor-suhl",
+      "first_known_usage": "16th century",
+      "example_sentence": "The magician's words seemed to ensorcel the entire audience, leaving them spellbound.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:35:53.222257",
+      "error_reason": null
+    },
+    "equanimity": {
+      "word": "equanimity",
+      "definition": "the quality of remaining calm and undisturbed, especially under stress or in difficult situations",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "composure",
+        "poise"
+      ],
+      "antonyms": [
+        "agitation",
+        "anxiety"
+      ],
+      "phonetic_spelling": "ee-kwuh-nim-ih-tee",
+      "first_known_usage": "17th century",
+      "example_sentence": "Despite the chaos around him, he handled the crisis with remarkable equanimity.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:35:56.351011",
+      "error_reason": null
+    },
+    "equivocate": {
+      "word": "equivocate",
+      "definition": "to use ambiguous or unclear language, especially to avoid speaking the truth or committing oneself",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "prevaricate",
+        "hedge"
+      ],
+      "antonyms": [
+        "clarify",
+        "confront"
+      ],
+      "phonetic_spelling": "ih-kwiv-uh-kayt",
+      "first_known_usage": "16th century",
+      "example_sentence": "When asked if he supported the policy, the spokesperson began to equivocate, refusing to give a direct answer.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:35:59.717588",
+      "error_reason": null
+    },
+    "ersatz": {
+      "word": "ersatz",
+      "definition": "serving as a substitute, especially one that is artificial or inferior to the original",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "substitute",
+        "imitation"
+      ],
+      "antonyms": [
+        "genuine",
+        "authentic"
+      ],
+      "phonetic_spelling": "er-zahts",
+      "first_known_usage": "19th century",
+      "example_sentence": "During the war, people drank ersatz coffee made from roasted grains instead of real coffee beans.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:36:02.775700",
+      "error_reason": null
+    },
+    "erudite": {
+      "word": "erudite",
+      "definition": "having or showing great knowledge that is gained from academic study",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "learned",
+        "scholarly"
+      ],
+      "antonyms": [
+        "ignorant",
+        "uneducated"
+      ],
+      "phonetic_spelling": "AIR-yuh-dyte",
+      "first_known_usage": "15th century",
+      "example_sentence": "The professor was known for his erudite lectures that captivated students.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:36:06.721727",
+      "error_reason": null
+    },
+    "escutcheon": {
+      "word": "escutcheon",
+      "definition": "A protective or ornamental plate, often made of metal, that surrounds a keyhole, door handle, light switch, or pipe entry; also refers to a shield or shield-shaped surface on which a coat of arms is displayed.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "shield",
+        "plate"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "ih-skutch-uhn",
+      "first_known_usage": "15th century",
+      "example_sentence": "The ornate escutcheon around the keyhole protected the wood of the antique door from scratches.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:36:10.650957",
+      "error_reason": null
+    },
+    "evanescent": {
+      "word": "evanescent",
+      "definition": "lasting for only a short time and quickly disappearing; fleeting or vanishing",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "transient",
+        "fugitive"
+      ],
+      "antonyms": [
+        "enduring",
+        "permanent"
+      ],
+      "phonetic_spelling": "ev-uh-ness-uhnt",
+      "first_known_usage": "18th century",
+      "example_sentence": "The beauty of the morning mist was evanescent, vanishing as the sun rose higher in the sky.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:36:14.131792",
+      "error_reason": null
+    },
+    "excoriate": {
+      "word": "excoriate",
+      "definition": "to criticize or denounce severely; to strip, scratch, or rub off the skin of",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "denounce",
+        "chastise"
+      ],
+      "antonyms": [
+        "praise",
+        "commend"
+      ],
+      "phonetic_spelling": "ik-skoh-ree-ayt",
+      "first_known_usage": "15th century",
+      "example_sentence": "The politician was excoriated by the press for his controversial remarks.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:36:17.410109",
+      "error_reason": null
+    },
+    "execrable": {
+      "word": "execrable",
+      "definition": "extremely bad, detestable, or of very poor quality",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "abominable",
+        "detestable"
+      ],
+      "antonyms": [
+        "excellent",
+        "admirable"
+      ],
+      "phonetic_spelling": "ek-si-kruh-buhl",
+      "first_known_usage": "15th century",
+      "example_sentence": "The food at the restaurant was execrable, making the entire dining experience unpleasant.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:36:20.394338",
+      "error_reason": null
+    },
+    "exigent": {
+      "word": "exigent",
+      "definition": "requiring immediate action or attention; urgent or demanding",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "urgent",
+        "pressing"
+      ],
+      "antonyms": [
+        "trivial",
+        "nonessential"
+      ],
+      "phonetic_spelling": "ek-suh-jent",
+      "first_known_usage": "15th century",
+      "example_sentence": "The exigent need for medical supplies led to a swift response from the relief team.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:36:23.601647",
+      "error_reason": null
+    },
+    "expiate": {
+      "word": "expiate",
+      "definition": "to make amends or atone for a wrongdoing, guilt, or sin, usually by performing an action that shows regret or takes responsibility",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "atone",
+        "redeem"
+      ],
+      "antonyms": [
+        "condemn",
+        "blame"
+      ],
+      "phonetic_spelling": "ek-spee-ayt",
+      "first_known_usage": "16th century",
+      "example_sentence": "He sought to expiate his past mistakes by volunteering at the homeless shelter.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:36:27.102325",
+      "error_reason": null
+    },
+    "fane": {
+      "word": "fane",
+      "definition": "a temple or sacred place",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "shrine",
+        "sanctuary"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "fayn",
+      "first_known_usage": "14th century",
+      "example_sentence": "The ancient villagers gathered at the fane to perform their sacred rituals.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:36:30.229867",
+      "error_reason": null
+    },
+    "fastidious": {
+      "word": "fastidious",
+      "definition": "Very attentive to detail and difficult to please, especially regarding cleanliness or accuracy.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "meticulous",
+        "fussy"
+      ],
+      "antonyms": [
+        "lax",
+        "easy-going"
+      ],
+      "phonetic_spelling": "fa-stid-ee-us",
+      "first_known_usage": "17th century",
+      "example_sentence": "The chef is so fastidious that every dish must be arranged perfectly before it leaves the kitchen.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:36:35.122937",
+      "error_reason": null
+    },
+    "fatuous": {
+      "word": "fatuous",
+      "definition": "silly and pointless; lacking intelligence",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "foolish",
+        "silly"
+      ],
+      "antonyms": [
+        "wise",
+        "sensible"
+      ],
+      "phonetic_spelling": "FA-tchoo-əs",
+      "first_known_usage": "17th century",
+      "example_sentence": "The manager dismissed the fatuous suggestion without a second thought.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:36:39.395255",
+      "error_reason": null
+    },
+    "febrile": {
+      "word": "febrile",
+      "definition": "Having or showing the symptoms of a fever; relating to or characterized by fever.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "feverish",
+        "pyretic"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "feh-bryl",
+      "first_known_usage": "17th century",
+      "example_sentence": "The child became febrile after developing a high temperature due to the infection.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:36:42.634979",
+      "error_reason": null
+    },
+    "feckless": {
+      "word": "feckless",
+      "definition": "weak in character and lacking determination; ineffective, incompetent, or irresponsible",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "ineffective",
+        "irresponsible"
+      ],
+      "antonyms": [
+        "competent",
+        "responsible"
+      ],
+      "phonetic_spelling": "feck-luhs",
+      "first_known_usage": "16th century",
+      "example_sentence": "His feckless attitude toward his job led to many unfinished projects and missed deadlines.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:36:45.817257",
+      "error_reason": null
+    },
+    "fecund": {
+      "word": "fecund",
+      "definition": "producing or capable of producing in abundance; highly fertile, fruitful, or productive, especially of offspring, vegetation, or creative output",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "fertile",
+        "prolific"
+      ],
+      "antonyms": [
+        "barren",
+        "sterile"
+      ],
+      "phonetic_spelling": "fee-kund",
+      "first_known_usage": "14th century",
+      "example_sentence": "The fecund soil of the river valley allowed the farmers to harvest bountiful crops year after year.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:36:50.278898",
+      "error_reason": null
+    },
+    "felicitous": {
+      "word": "felicitous",
+      "definition": "Well-chosen or suited to the circumstances; pleasing and fortunate.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "apt",
+        "appropriate"
+      ],
+      "antonyms": [
+        "infelicitous",
+        "unfitting"
+      ],
+      "phonetic_spelling": "fuh-LIS-uh-tus",
+      "first_known_usage": "17th century",
+      "example_sentence": "It was a felicitous decision to bring an umbrella, as it started raining just as we arrived.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:36:53.516489",
+      "error_reason": null
+    },
+    "flout": {
+      "word": "flout",
+      "definition": "To openly disregard or defy a rule, law, or convention; to treat with scorn or contempt.",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "defy",
+        "scorn"
+      ],
+      "antonyms": [
+        "obey",
+        "comply"
+      ],
+      "phonetic_spelling": "flowt",
+      "first_known_usage": "14th century",
+      "example_sentence": "The company chose to flout environmental regulations, resulting in hefty fines.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:36:56.594393",
+      "error_reason": null
+    },
+    "foment": {
+      "word": "foment",
+      "definition": "to instigate, encourage, or stir up the development of something, especially something undesirable like trouble or rebellion",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "incite",
+        "provoke"
+      ],
+      "antonyms": [
+        "deter",
+        "discourage"
+      ],
+      "phonetic_spelling": "foh-ment",
+      "first_known_usage": "14th century",
+      "example_sentence": "The rebels sought to foment unrest among the population by spreading rumors of government corruption.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:37:00.041416",
+      "error_reason": null
+    },
+    "fulminate": {
+      "word": "fulminate",
+      "definition": "To express strong opinions or protests about something, usually in a loud or angry way.",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "rant",
+        "fume"
+      ],
+      "antonyms": [
+        "praise",
+        "commend"
+      ],
+      "phonetic_spelling": "FUL-muh-nayt",
+      "first_known_usage": "15th century",
+      "example_sentence": "During the meeting, he began to fulminate about the lack of support for the project.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:37:03.100461",
+      "error_reason": null
+    },
+    "fustian": {
+      "word": "fustian",
+      "definition": "pompous or pretentious speech or writing that is inflated and lacks real substance; formerly, a strong cotton and linen fabric",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "bombast",
+        "rant"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "fuss-chun",
+      "first_known_usage": "12th century",
+      "example_sentence": "The politician's speech was full of fustian, impressing few and convincing no one.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:37:06.252571",
+      "error_reason": null
+    },
+    "gambol": {
+      "word": "gambol",
+      "definition": "to run or jump about playfully and energetically",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "frolic",
+        "skip"
+      ],
+      "antonyms": [
+        "trudge",
+        "crawl"
+      ],
+      "phonetic_spelling": "gam-buhl",
+      "first_known_usage": "16th century",
+      "example_sentence": "The children love to gambol across the lawn on sunny afternoons.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:37:14.892586",
+      "error_reason": null
+    },
+    "garrulous": {
+      "word": "garrulous",
+      "definition": "Excessively talkative, especially about unimportant or trivial matters.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "talkative",
+        "loquacious"
+      ],
+      "antonyms": [
+        "taciturn",
+        "reticent"
+      ],
+      "phonetic_spelling": "GAR-uh-luhs",
+      "first_known_usage": "17th century",
+      "example_sentence": "The garrulous man at the party dominated every conversation with his endless stories about nothing in particular.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:37:18.111714",
+      "error_reason": null
+    },
+    "gestalt": {
+      "word": "gestalt",
+      "definition": "An organized whole that is perceived as more than the sum of its parts, often referring to a unified concept or pattern formed by the integration of various elements.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "whole",
+        "configuration"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "guh-shtahlt",
+      "first_known_usage": "20th century",
+      "example_sentence": "The team worked so well together that their gestalt was greater than the abilities of any individual member.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:37:21.353754",
+      "error_reason": null
+    },
+    "grandiloquent": {
+      "word": "grandiloquent",
+      "definition": "Speaking or expressed in a lofty, pompous, or pretentious style, often to impress or seem important.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "pompous",
+        "inflated"
+      ],
+      "antonyms": [
+        "simple",
+        "sincere"
+      ],
+      "phonetic_spelling": "gran-DIL-uh-kwent",
+      "first_known_usage": "16th century",
+      "example_sentence": "The politician's grandiloquent speech was filled with extravagant words but lacked genuine substance.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:37:24.402785",
+      "error_reason": null
+    },
+    "gravitas": {
+      "word": "gravitas",
+      "definition": "seriousness and importance of manner that causes others to feel respect and trust",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "seriousness",
+        "solemnity"
+      ],
+      "antonyms": [
+        "frivolity",
+        "levity"
+      ],
+      "phonetic_spelling": "grah-vuh-tahs",
+      "first_known_usage": "20th century",
+      "example_sentence": "The judge spoke with such gravitas that everyone in the courtroom listened intently.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:37:27.790909",
+      "error_reason": null
+    },
+    "haughty": {
+      "word": "haughty",
+      "definition": "proud in a way that shows a low opinion of others or behaving as if you are better than other people",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "arrogant",
+        "supercilious"
+      ],
+      "antonyms": [
+        "humble",
+        "modest"
+      ],
+      "phonetic_spelling": "haw-tee",
+      "first_known_usage": "16th century",
+      "example_sentence": "She gave the waiter a haughty look and refused to speak to him.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:37:31.294687",
+      "error_reason": null
+    },
+    "hebdomadal": {
+      "word": "hebdomadal",
+      "definition": "Occurring once every week; weekly.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "weekly",
+        "periodic"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "heb-doh-muh-dl",
+      "first_known_usage": "17th century",
+      "example_sentence": "She eagerly anticipated the hebdomadal meetings where the team discussed their weekly progress.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:37:38.380277",
+      "error_reason": null
+    },
+    "hypnagogic": {
+      "word": "hypnagogic",
+      "definition": "Relating to the state of drowsiness or the transitional period between wakefulness and sleep; inducing sleep or drowsiness.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "soporific",
+        "somnific"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "hip-nuh-goj-ik",
+      "first_known_usage": "19th century",
+      "example_sentence": "He experienced vivid hypnagogic images as he drifted off to sleep.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:37:41.780902",
+      "error_reason": null
+    },
+    "ignominious": {
+      "word": "ignominious",
+      "definition": "deserving or causing public shame or disgrace; humiliating and dishonorable",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "disgraceful",
+        "humiliating"
+      ],
+      "antonyms": [
+        "honorable",
+        "glorious"
+      ],
+      "phonetic_spelling": "ig-nuh-MIN-ee-us",
+      "first_known_usage": "15th century",
+      "example_sentence": "Their team suffered an ignominious defeat, losing by ten goals in front of their home crowd.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:37:44.906682",
+      "error_reason": null
+    },
+    "impecunious": {
+      "word": "impecunious",
+      "definition": "Not having enough money to pay for basic needs or necessities; having very little or no money.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "penniless",
+        "impoverished"
+      ],
+      "antonyms": [
+        "wealthy",
+        "affluent"
+      ],
+      "phonetic_spelling": "im-puh-KYOO-nee-us",
+      "first_known_usage": "16th century",
+      "example_sentence": "During his impecunious years after college, Mark often skipped meals to save money.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:37:48.277375",
+      "error_reason": null
+    },
+    "imperious": {
+      "word": "imperious",
+      "definition": "Having a proud and commanding attitude, often expecting obedience from others.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "domineering",
+        "overbearing"
+      ],
+      "antonyms": [
+        "humble",
+        "submissive"
+      ],
+      "phonetic_spelling": "im-peer-ee-uhs",
+      "first_known_usage": "16th century",
+      "example_sentence": "The imperious manager spoke as if no one dared question her authority.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:37:52.132376",
+      "error_reason": null
+    },
+    "importunate": {
+      "word": "importunate",
+      "definition": "Urgent or persistently demanding; insistent and often annoyingly so",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "persistent",
+        "demanding"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "im-por-chuh-nit",
+      "first_known_usage": "16th century",
+      "example_sentence": "The importunate customer kept asking for discounts, becoming increasingly annoying to the sales staff.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:37:55.428838",
+      "error_reason": null
+    },
+    "impugn": {
+      "word": "impugn",
+      "definition": "To call into question or challenge the truth, validity, or honesty of something; to criticize or attack as false or questionable.",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "challenge",
+        "question"
+      ],
+      "antonyms": [
+        "defend",
+        "support"
+      ],
+      "phonetic_spelling": "im-pyoon",
+      "first_known_usage": "14th century",
+      "example_sentence": "The journalist impugned the politician's claim by presenting evidence that contradicted it.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:37:58.439555",
+      "error_reason": null
+    },
+    "inchoate": {
+      "word": "inchoate",
+      "definition": "in an early, undeveloped, or incomplete stage; just begun and not fully formed or organized",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "rudimentary",
+        "nascent"
+      ],
+      "antonyms": [
+        "developed",
+        "mature"
+      ],
+      "phonetic_spelling": "in-koh-it",
+      "first_known_usage": "16th century",
+      "example_sentence": "The committee's inchoate plan needed much more work before it could be implemented.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:38:01.856885",
+      "error_reason": null
+    },
+    "inculcate": {
+      "word": "inculcate",
+      "definition": "to teach or instill an idea, attitude, or habit by persistent instruction or repetition",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "instill",
+        "implant"
+      ],
+      "antonyms": [
+        "neglect",
+        "forget"
+      ],
+      "phonetic_spelling": "in-kuhl-kayt",
+      "first_known_usage": "16th century",
+      "example_sentence": "Parents often try to inculcate good manners in their children by consistent guidance and repetition.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:38:06.259630",
+      "error_reason": null
+    },
+    "indefatigable": {
+      "word": "indefatigable",
+      "definition": "not subject to fatigue; untiring; persisting tirelessly",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "tireless",
+        "inexhaustible"
+      ],
+      "antonyms": [
+        "fatigued",
+        "exhausted"
+      ],
+      "phonetic_spelling": "in-duh-fat-ih-guh-buhl",
+      "first_known_usage": "16th century",
+      "example_sentence": "Her indefatigable spirit inspired the entire team to keep working despite the setbacks.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:38:09.534707",
+      "error_reason": null
+    },
+    "indolent": {
+      "word": "indolent",
+      "definition": "habitually lazy or disinclined to exert oneself; also refers to something progressing or healing slowly, especially in medicine",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "idle",
+        "slothful"
+      ],
+      "antonyms": [
+        "industrious",
+        "energetic"
+      ],
+      "phonetic_spelling": "in-duh-lent",
+      "first_known_usage": "17th century",
+      "example_sentence": "He spent an indolent afternoon lounging in the hammock, avoiding any kind of work.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:38:14.103919",
+      "error_reason": null
+    },
+    "ineffable": {
+      "word": "ineffable",
+      "definition": "too great or extreme to be expressed or described in words; inexpressible",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "indescribable",
+        "inexpressible"
+      ],
+      "antonyms": [
+        "expressible",
+        "describable"
+      ],
+      "phonetic_spelling": "in-ef-uh-buhl",
+      "first_known_usage": "14th century",
+      "example_sentence": "The beauty of the sunrise over the mountains was ineffable, leaving everyone speechless in its presence.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:38:17.461056",
+      "error_reason": null
+    },
+    "ineluctable": {
+      "word": "ineluctable",
+      "definition": "unable to be resisted or avoided; inescapable",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "inevitable",
+        "unavoidable"
+      ],
+      "antonyms": [
+        "avoidable",
+        "preventable"
+      ],
+      "phonetic_spelling": "in-uh-LUK-tuh-bul",
+      "first_known_usage": "17th century",
+      "example_sentence": "Despite their efforts to change course, the team faced the ineluctable reality of defeat.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:38:21.015792",
+      "error_reason": null
+    },
+    "inhere": {
+      "word": "inhere",
+      "definition": "to exist permanently and inseparably in something as an intrinsic or essential part",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "belong",
+        "exist"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "in-heer",
+      "first_known_usage": "16th century",
+      "example_sentence": "A sense of responsibility inheres in the role of a leader.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:38:24.581024",
+      "error_reason": null
+    },
+    "inimical": {
+      "word": "inimical",
+      "definition": "hostile, unfriendly, or harmful; adverse or opposed to something",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "hostile",
+        "antagonistic"
+      ],
+      "antonyms": [
+        "friendly"
+      ],
+      "phonetic_spelling": "ih-nim-ih-kuhl",
+      "first_known_usage": "17th century",
+      "example_sentence": "The new regulations were seen as inimical to the company's success.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:38:27.953221",
+      "error_reason": null
+    },
+    "iniquity": {
+      "word": "iniquity",
+      "definition": "a very wicked, immoral, or grossly unfair act or situation",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "wickedness",
+        "depravity"
+      ],
+      "antonyms": [
+        "virtue",
+        "justice"
+      ],
+      "phonetic_spelling": "ih-nik-wi-tee",
+      "first_known_usage": "14th century",
+      "example_sentence": "The judge condemned the iniquity of the corrupt officials who abused their power for personal gain.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:38:33.383934",
+      "error_reason": null
+    },
+    "insouciant": {
+      "word": "insouciant",
+      "definition": "calm and untroubled; carefree; unconcerned or indifferent",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "nonchalant",
+        "carefree"
+      ],
+      "antonyms": [
+        "anxious",
+        "concerned"
+      ],
+      "phonetic_spelling": "in-soo-see-uhnt",
+      "first_known_usage": "19th century",
+      "example_sentence": "She wandered through the garden with an insouciant smile, unbothered by the chaos around her.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:38:38.221565",
+      "error_reason": null
+    },
+    "insuperable": {
+      "word": "insuperable",
+      "definition": "impossible to overcome or deal with successfully",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "insurmountable",
+        "unconquerable"
+      ],
+      "antonyms": [
+        "superable"
+      ],
+      "phonetic_spelling": "in-soo-puh-ruh-buhl",
+      "first_known_usage": "15th century",
+      "example_sentence": "They faced what seemed to be an insuperable obstacle in completing the project on time.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:38:41.396443",
+      "error_reason": null
+    },
+    "intricate": {
+      "word": "intricate",
+      "definition": "having many complex or elaborate parts that are arranged in a complicated way, making something difficult to understand or analyze",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "complex",
+        "complicated"
+      ],
+      "antonyms": [
+        "simple",
+        "straightforward"
+      ],
+      "phonetic_spelling": "in-truh-kit",
+      "first_known_usage": "14th century",
+      "example_sentence": "The artist's intricate design featured countless small, interwoven details that captivated everyone who saw it.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:38:45.318412",
+      "error_reason": null
+    },
+    "invective": {
+      "word": "invective",
+      "definition": "abusive or insulting language used to express blame, strong criticism, or severe disapproval, often intended to offend or hurt someone",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "abuse",
+        "vituperation"
+      ],
+      "antonyms": [
+        "praise",
+        "commendation"
+      ],
+      "phonetic_spelling": "in-vek-tiv",
+      "first_known_usage": "15th century",
+      "example_sentence": "The politician's speech was filled with invective, attacking his opponent with harsh and insulting language.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:38:53.537751",
+      "error_reason": null
+    },
+    "invidious": {
+      "word": "invidious",
+      "definition": "likely to cause resentment, unhappiness, or offense, especially because it is unfair or discriminatory",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "offensive",
+        "unfair"
+      ],
+      "antonyms": [
+        "fair",
+        "pleasant"
+      ],
+      "phonetic_spelling": "in-VID-ee-uhs",
+      "first_known_usage": "17th century",
+      "example_sentence": "Making invidious comparisons between employees only breeds discontent in the workplace.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:38:56.768184",
+      "error_reason": null
+    },
+    "irascible": {
+      "word": "irascible",
+      "definition": "easily angered or quick-tempered; prone to outbursts of temper",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "irritable",
+        "short-tempered"
+      ],
+      "antonyms": [
+        "calm",
+        "placid"
+      ],
+      "phonetic_spelling": "ih-ras-uh-buhl",
+      "first_known_usage": "14th century",
+      "example_sentence": "The irascible coach yelled at the players after every minor mistake, making everyone nervous.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:38:59.822303",
+      "error_reason": null
+    },
+    "jejune": {
+      "word": "jejune",
+      "definition": "lacking in substance, significance, or intellectual nourishment; dull, simplistic, and uninteresting",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "naive",
+        "dull"
+      ],
+      "antonyms": [
+        "sophisticated",
+        "interesting"
+      ],
+      "phonetic_spelling": "ji-joon",
+      "first_known_usage": "17th century",
+      "example_sentence": "The critic called the novel's plot jejune, saying it failed to engage or challenge readers.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:39:03.723272",
+      "error_reason": null
+    },
+    "jocose": {
+      "word": "jocose",
+      "definition": "playful or humorous; given to joking or jesting",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "jocular",
+        "witty"
+      ],
+      "antonyms": [
+        "serious",
+        "solemn"
+      ],
+      "phonetic_spelling": "joh-kohs",
+      "first_known_usage": "17th century",
+      "example_sentence": "The comedian’s jocose remarks kept the entire audience laughing throughout the show.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:39:09.030587",
+      "error_reason": null
+    },
+    "labile": {
+      "word": "labile",
+      "definition": "Likely or liable to change; easily altered or unstable.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "unstable",
+        "changeable"
+      ],
+      "antonyms": [
+        "stable",
+        "constant"
+      ],
+      "phonetic_spelling": "LAY-byl",
+      "first_known_usage": "Late Middle English",
+      "example_sentence": "Her labile mood made it difficult to predict how she would react to the news.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:39:12.776980",
+      "error_reason": null
+    },
+    "lachrymose": {
+      "word": "lachrymose",
+      "definition": "easily given to tears; tearful or tending to cause tears; sorrowful",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "tearful",
+        "weepy"
+      ],
+      "antonyms": [
+        "cheerful",
+        "joyful"
+      ],
+      "phonetic_spelling": "lak-ruh-mohs",
+      "first_known_usage": "17th century",
+      "example_sentence": "Watching the tragic movie left her feeling extremely lachrymose, with tears streaming down her face.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:39:16.348563",
+      "error_reason": null
+    },
+    "laconic": {
+      "word": "laconic",
+      "definition": "using very few words; brief and to the point",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "terse",
+        "succinct"
+      ],
+      "antonyms": [
+        "voluble",
+        "verbose"
+      ],
+      "phonetic_spelling": "luh-KAHN-ik",
+      "first_known_usage": "16th century",
+      "example_sentence": "When asked if he would attend the meeting, his laconic reply was simply, 'Maybe.'",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:39:20.337880",
+      "error_reason": null
+    },
+    "lacuna": {
+      "word": "lacuna",
+      "definition": "an unfilled space, gap, or missing part, especially in a book, manuscript, argument, or anatomical structure",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "gap",
+        "void"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "luh-kyoo-nuh",
+      "first_known_usage": "17th century",
+      "example_sentence": "The scholar noticed a significant lacuna in the ancient manuscript where several pages were missing.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:39:23.570177",
+      "error_reason": null
+    },
+    "lambent": {
+      "word": "lambent",
+      "definition": "softly glowing or flickering; playing lightly over a surface; dealing lightly and gracefully with a subject, especially in a clever or witty way",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "flickering",
+        "glowing"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "lam-buhnt",
+      "first_known_usage": "17th century",
+      "example_sentence": "The lambent flames of the fireplace cast a gentle glow across the room.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:39:31.150386",
+      "error_reason": null
+    },
+    "languor": {
+      "word": "languor",
+      "definition": "A state of physical or mental weakness, tiredness, and lack of energy, often accompanied by a pleasant feeling of relaxation or dreaminess.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "lethargy",
+        "weakness"
+      ],
+      "antonyms": [
+        "vigor",
+        "energy"
+      ],
+      "phonetic_spelling": "LANG-ger",
+      "first_known_usage": "14th century",
+      "example_sentence": "After a long day in the sun, a heavy languor settled over the group as they lounged quietly in the shade.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:39:34.979595",
+      "error_reason": null
+    },
+    "lassitude": {
+      "word": "lassitude",
+      "definition": "a state of feeling very tired, weak, or lacking energy",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "fatigue",
+        "weariness"
+      ],
+      "antonyms": [
+        "energy",
+        "vitality"
+      ],
+      "phonetic_spelling": "las-i-tood",
+      "first_known_usage": "17th century",
+      "example_sentence": "After a long week of hard work, the lassitude made it difficult for him to stay awake during the movie.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:39:38.243473",
+      "error_reason": null
+    },
+    "laudatory": {
+      "word": "laudatory",
+      "definition": "Expressing praise or admiration.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "praiseful",
+        "complimentary"
+      ],
+      "antonyms": [
+        "critical",
+        "disparaging"
+      ],
+      "phonetic_spelling": "law-duh-tor-ee",
+      "first_known_usage": "16th century",
+      "example_sentence": "The teacher gave a laudatory speech about the students' hard work during the project.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:39:40.979856",
+      "error_reason": null
+    },
+    "loquacious": {
+      "word": "loquacious",
+      "definition": "Tending to talk very freely; extremely talkative; characterized by excessive wordiness.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "talkative",
+        "garrulous"
+      ],
+      "antonyms": [
+        "taciturn",
+        "reticent"
+      ],
+      "phonetic_spelling": "loh-kwey-shuhs",
+      "first_known_usage": "17th century",
+      "example_sentence": "Her loquacious nature made every meeting lively, as she could talk at length on any topic without pause.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:39:44.432429",
+      "error_reason": null
+    },
+    "lugubrious": {
+      "word": "lugubrious",
+      "definition": "gloomy, mournful, or dismal, especially to an exaggerated degree",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "gloomy",
+        "mournful"
+      ],
+      "antonyms": [
+        "cheerful",
+        "joyous"
+      ],
+      "phonetic_spelling": "loo-goo-bree-us",
+      "first_known_usage": "17th century",
+      "example_sentence": "He walked into the room with a lugubrious expression, as if the weight of the world rested on his shoulders.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:39:47.575984",
+      "error_reason": null
+    },
+    "magniloquent": {
+      "word": "magniloquent",
+      "definition": "using lofty, pompous, or grandiose language; expressed in an overblown or bombastic style",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "grandiloquent",
+        "pompous"
+      ],
+      "antonyms": [
+        "plain",
+        "simple"
+      ],
+      "phonetic_spelling": "mag-NIL-uh-kwuhnt",
+      "first_known_usage": "17th century",
+      "example_sentence": "The politician's magniloquent speech impressed some listeners but struck others as unnecessarily showy.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:39:54.088831",
+      "error_reason": null
+    },
+    "maladroit": {
+      "word": "maladroit",
+      "definition": "lacking skill or dexterity; clumsy or inept, especially in handling situations or tasks",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "clumsy",
+        "inept"
+      ],
+      "antonyms": [
+        "adroit",
+        "skillful"
+      ],
+      "phonetic_spelling": "mal-uh-droit",
+      "first_known_usage": "17th century",
+      "example_sentence": "His maladroit attempt to fix the computer only made the problem worse.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:39:57.954691",
+      "error_reason": null
+    },
+    "malfeasance": {
+      "word": "malfeasance",
+      "definition": "wrongdoing or misconduct, especially by a public official; the intentional commission of an act that is unlawful or morally wrong",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "misconduct",
+        "wrongdoing"
+      ],
+      "antonyms": [
+        "integrity",
+        "honesty"
+      ],
+      "phonetic_spelling": "mal-FEE-zəns",
+      "first_known_usage": "17th century",
+      "example_sentence": "The mayor was removed from office after evidence of malfeasance in awarding city contracts was uncovered.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:40:02.764639",
+      "error_reason": null
+    },
+    "martinet": {
+      "word": "martinet",
+      "definition": "a strict disciplinarian, especially one who demands absolute adherence to rules and regulations",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "disciplinarian",
+        "taskmaster"
+      ],
+      "antonyms": [
+        "liberal",
+        "lenient"
+      ],
+      "phonetic_spelling": "mar-ti-net",
+      "first_known_usage": "17th century",
+      "example_sentence": "The new manager was a martinet who insisted that every rule be followed exactly, no matter how minor.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:40:06.353202",
+      "error_reason": null
+    },
+    "maunder": {
+      "word": "maunder",
+      "definition": "To speak in a rambling, aimless, or incoherent manner; to move or act in a dreamy or idle way.",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "ramble",
+        "babble"
+      ],
+      "antonyms": [
+        "articulate",
+        "concentrate"
+      ],
+      "phonetic_spelling": "mawn-der",
+      "first_known_usage": "17th century",
+      "example_sentence": "During the long meeting, he began to maunder about unrelated topics, losing everyone's attention.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:40:10.833791",
+      "error_reason": null
+    },
+    "mellifluous": {
+      "word": "mellifluous",
+      "definition": "sweet or musical; pleasant to hear; sounding smooth and honeyed",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "dulcet",
+        "euphonious"
+      ],
+      "antonyms": [
+        "harsh",
+        "grating"
+      ],
+      "phonetic_spelling": "muh-LIF-loo-uhs",
+      "first_known_usage": "15th century",
+      "example_sentence": "The singer's mellifluous voice captivated everyone in the audience.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:40:15.182548",
+      "error_reason": null
+    },
+    "mendacious": {
+      "word": "mendacious",
+      "definition": "not telling the truth; habitually lying or dishonest",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "untruthful",
+        "lying"
+      ],
+      "antonyms": [
+        "veracious"
+      ],
+      "phonetic_spelling": "men-day-shus",
+      "first_known_usage": "17th century",
+      "example_sentence": "The article was filled with mendacious claims that misled its readers.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:40:18.292543",
+      "error_reason": null
+    },
+    "meretricious": {
+      "word": "meretricious",
+      "definition": "Apparently attractive but having in reality no value or integrity; superficially showy or flashy but lacking worth.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "tawdry",
+        "spurious"
+      ],
+      "antonyms": [
+        "genuine",
+        "authentic"
+      ],
+      "phonetic_spelling": "mer-uh-TRISH-us",
+      "first_known_usage": "17th century",
+      "example_sentence": "The politician's promises were dismissed as meretricious, offering little substance beneath their flashy appeal.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:40:22.148563",
+      "error_reason": null
+    },
+    "minatory": {
+      "word": "minatory",
+      "definition": "menacing; threatening",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "threatening",
+        "menacing"
+      ],
+      "antonyms": [
+        "reassuring",
+        "encouraging"
+      ],
+      "phonetic_spelling": "MIN-uh-tor-ee",
+      "first_known_usage": "16th century",
+      "example_sentence": "The politician's speech took on a minatory tone, warning his opponents of severe consequences.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:40:25.112177",
+      "error_reason": null
+    },
+    "mordant": {
+      "word": "mordant",
+      "definition": "Characterized by a sharp, caustic, and biting quality, often accompanied by a sense of irony or sarcasm, especially in humor or criticism.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "biting",
+        "scathing"
+      ],
+      "antonyms": [
+        "gentle",
+        "mild"
+      ],
+      "phonetic_spelling": "mor-dnt",
+      "first_known_usage": "15th century",
+      "example_sentence": "The author's mordant commentary exposed the absurdities of modern life with cutting humor.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:40:28.100985",
+      "error_reason": null
+    },
+    "moribund": {
+      "word": "moribund",
+      "definition": "being in a dying state, near death, or in a state of inactivity or obsolescence",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "dying",
+        "stagnant"
+      ],
+      "antonyms": [
+        "thriving",
+        "flourishing"
+      ],
+      "phonetic_spelling": "mor-uh-bund",
+      "first_known_usage": "18th century",
+      "example_sentence": "The factory has been moribund for years, producing nothing and employing no workers.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:40:31.517841",
+      "error_reason": null
+    },
+    "munificent": {
+      "word": "munificent",
+      "definition": "extremely generous, especially in giving or bestowing gifts or money",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "generous",
+        "lavish"
+      ],
+      "antonyms": [
+        "miserly"
+      ],
+      "phonetic_spelling": "myoo-nif-uh-sent",
+      "first_known_usage": "16th century",
+      "example_sentence": "The university received a munificent donation that funded new scholarships and research programs.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:40:35.039654",
+      "error_reason": null
+    },
+    "nugatory": {
+      "word": "nugatory",
+      "definition": "having little or no real value, importance, or effect; worthless or trifling",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "worthless",
+        "insignificant"
+      ],
+      "antonyms": [
+        "important",
+        "significant"
+      ],
+      "phonetic_spelling": "NOO-guh-tor-ee",
+      "first_known_usage": "16th century",
+      "example_sentence": "The committee quickly dismissed his objections as nugatory, since they had no impact on the final decision.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:40:39.022476",
+      "error_reason": null
+    },
+    "obloquy": {
+      "word": "obloquy",
+      "definition": "strong public criticism or verbal abuse, particularly when widespread or directed by many people; disgrace resulting from such criticism",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "calumny",
+        "reproach"
+      ],
+      "antonyms": [
+        "praise",
+        "credit"
+      ],
+      "phonetic_spelling": "ob-luh-kwee",
+      "first_known_usage": "15th century",
+      "example_sentence": "After the scandal was exposed, the politician was subjected to national obloquy and lost the public's trust.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:40:44.046606",
+      "error_reason": null
+    },
+    "obsequious": {
+      "word": "obsequious",
+      "definition": "excessively eager to please or obey someone, often in a way that seems servile or ingratiating",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "servile",
+        "fawning"
+      ],
+      "antonyms": [
+        "assertive",
+        "independent"
+      ],
+      "phonetic_spelling": "ub-SEE-kwee-us",
+      "first_known_usage": "15th century",
+      "example_sentence": "The manager grew tired of his assistant's obsequious behavior, always agreeing with him and never offering an honest opinion.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:40:47.467627",
+      "error_reason": null
+    },
+    "obstreperous": {
+      "word": "obstreperous",
+      "definition": "noisy and difficult to control; stubbornly resistant to restraint or authority",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "unruly",
+        "boisterous"
+      ],
+      "antonyms": [
+        "obedient",
+        "calm"
+      ],
+      "phonetic_spelling": "uhb-strep-uh-ruhs",
+      "first_known_usage": "17th century",
+      "example_sentence": "The obstreperous students made it nearly impossible for the teacher to maintain order in the classroom.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:40:51.135035",
+      "error_reason": null
+    },
+    "obviate": {
+      "word": "obviate",
+      "definition": "to remove or prevent something, especially a problem or a need, making it unnecessary",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "prevent",
+        "eliminate"
+      ],
+      "antonyms": [
+        "require",
+        "necessitate"
+      ],
+      "phonetic_spelling": "ob-vee-ayt",
+      "first_known_usage": "16th century",
+      "example_sentence": "Installing smoke detectors can obviate the risk of undetected fires in the building.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:40:55.000692",
+      "error_reason": null
+    },
+    "officious": {
+      "word": "officious",
+      "definition": "unnecessarily or obtrusively eager to offer advice or services, especially in an overbearing or meddlesome way",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "meddlesome",
+        "intrusive"
+      ],
+      "antonyms": [
+        "modest",
+        "uninvolved"
+      ],
+      "phonetic_spelling": "uh-fish-uhs",
+      "first_known_usage": "16th century",
+      "example_sentence": "The officious security guard insisted on checking everyone's bags even though it wasn't required.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:40:58.357916",
+      "error_reason": null
+    },
+    "oleaginous": {
+      "word": "oleaginous",
+      "definition": "having the properties of oil; oily, or (of manner or speech) excessively and insincerely flattering; smarmy or unctuous",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "unctuous",
+        "smarmy"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "oh-lee-AJ-uh-nus",
+      "first_known_usage": "17th century",
+      "example_sentence": "The politician’s oleaginous compliments made everyone suspicious of his true intentions.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:41:02.788840",
+      "error_reason": null
+    },
+    "opprobrium": {
+      "word": "opprobrium",
+      "definition": "severe criticism, disgrace, or public shame caused by conduct considered outrageously shameful",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "censure",
+        "condemnation"
+      ],
+      "antonyms": [
+        "praise",
+        "honor"
+      ],
+      "phonetic_spelling": "uh-proh-bree-um",
+      "first_known_usage": "17th century",
+      "example_sentence": "The politician faced widespread opprobrium after the scandal came to light.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:41:06.494773",
+      "error_reason": null
+    },
+    "ordure": {
+      "word": "ordure",
+      "definition": "solid waste from the body of a person or animal; excrement or dung, and by extension, something regarded as morally offensive or filth",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "excrement",
+        "filth"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "or-jur",
+      "first_known_usage": "14th century",
+      "example_sentence": "The barnyard was covered in ordure after the livestock had been brought in for the night.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:41:09.826181",
+      "error_reason": null
+    },
+    "oriflamme": {
+      "word": "oriflamme",
+      "definition": "A sacred banner of the kings of France, originally the battle standard of St. Denis, often red or orange-red with pointed ends, and later used to refer to any banner symbolizing inspiration or a rallying point.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "banner",
+        "standard"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "or-uh-flam",
+      "first_known_usage": "15th century",
+      "example_sentence": "The soldiers rallied under the oriflamme, inspired by its presence to fight bravely for their king and country.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:41:14.349665",
+      "error_reason": null
+    },
+    "palliate": {
+      "word": "palliate",
+      "definition": "To make less severe or intense; to reduce the pain or bad effects of something without curing the underlying cause.",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "alleviate",
+        "mitigate"
+      ],
+      "antonyms": [
+        "aggravate",
+        "exacerbate"
+      ],
+      "phonetic_spelling": "pal-ee-ate",
+      "first_known_usage": "16th century",
+      "example_sentence": "The new medication can palliate the symptoms of the disease, but it will not provide a cure.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:41:18.653575",
+      "error_reason": null
+    },
+    "panegyric": {
+      "word": "panegyric",
+      "definition": "a formal speech or piece of writing that praises a person or thing in an elaborate way",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "tribute",
+        "eulogy"
+      ],
+      "antonyms": [
+        "invective",
+        "criticism"
+      ],
+      "phonetic_spelling": "pan-uh-jir-ik",
+      "first_known_usage": "17th century",
+      "example_sentence": "The retiring professor received a heartfelt panegyric from her colleagues, celebrating her decades of dedication to teaching.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:41:21.910291",
+      "error_reason": null
+    },
+    "parsimonious": {
+      "word": "parsimonious",
+      "definition": "Unwilling to spend money; frugal or stingy, sometimes to an excessive or unreasonable degree",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "stingy",
+        "penurious"
+      ],
+      "antonyms": [
+        "generous",
+        "liberal"
+      ],
+      "phonetic_spelling": "par-suh-moh-nee-us",
+      "first_known_usage": "16th century",
+      "example_sentence": "Despite his wealth, Mr. Jacobs was so parsimonious that he refused to turn on the heat in winter.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:41:25.265072",
+      "error_reason": null
+    },
+    "pathos": {
+      "word": "pathos",
+      "definition": "a quality or technique that evokes strong emotions, especially pity or sympathy, in an audience",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "emotion",
+        "poignancy"
+      ],
+      "antonyms": [
+        "apathy",
+        "indifference"
+      ],
+      "phonetic_spelling": "pay-thoss",
+      "first_known_usage": "16th century",
+      "example_sentence": "The film's story was rich with pathos, moving the audience to tears through its depiction of personal loss.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:41:29.925040",
+      "error_reason": null
+    },
+    "paucity": {
+      "word": "paucity",
+      "definition": "a scarcity or shortage of something; the condition of having very little or not enough of something",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "scarcity",
+        "shortage"
+      ],
+      "antonyms": [
+        "abundance",
+        "plenty"
+      ],
+      "phonetic_spelling": "paw-sih-tee",
+      "first_known_usage": "15th century",
+      "example_sentence": "The project was delayed due to a paucity of available resources.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:41:33.672048",
+      "error_reason": null
+    },
+    "pedagogue": {
+      "word": "pedagogue",
+      "definition": "A teacher, especially one who is strict, pedantic, or regards themselves as more knowledgeable than others.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "teacher",
+        "educator"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "PED-uh-gog",
+      "first_known_usage": "14th century",
+      "example_sentence": "The new principal was known as a demanding pedagogue who insisted on discipline and order in the classroom.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:41:37.433927",
+      "error_reason": null
+    },
+    "pellucid": {
+      "word": "pellucid",
+      "definition": "transparently clear; easily understood; clear or pure in tone",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "transparent",
+        "limpid"
+      ],
+      "antonyms": [
+        "opaque",
+        "obscure"
+      ],
+      "phonetic_spelling": "puh-LOO-sid",
+      "first_known_usage": "17th century",
+      "example_sentence": "The mountain lake was so pellucid that you could see the smooth stones on its bottom.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:41:41.076718",
+      "error_reason": null
+    },
+    "penumbra": {
+      "word": "penumbra",
+      "definition": "the partially shaded area around the darkest part of a shadow, especially during an eclipse, or a vague, indefinite, or marginal area",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "shadow",
+        "shade"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "pih-num-bruh",
+      "first_known_usage": "17th century",
+      "example_sentence": "During the lunar eclipse, the moon passed through the Earth's penumbra, causing only a subtle dimming of its surface.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:41:44.863677",
+      "error_reason": null
+    },
+    "penurious": {
+      "word": "penurious",
+      "definition": "Very poor; lacking money; extremely unwilling to spend or share resources; stingy.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "impoverished",
+        "miserly"
+      ],
+      "antonyms": [
+        "wealthy",
+        "generous"
+      ],
+      "phonetic_spelling": "puh-noor-ee-us",
+      "first_known_usage": "16th century",
+      "example_sentence": "The penurious family struggled to make ends meet, often skipping meals to save money.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:41:49.278873",
+      "error_reason": null
+    },
+    "perdurable": {
+      "word": "perdurable",
+      "definition": "enduring continuously; extremely durable or lasting; imperishable",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "indestructible",
+        "permanent"
+      ],
+      "antonyms": [
+        "temporary",
+        "transient"
+      ],
+      "phonetic_spelling": "per-DUR-uh-buhl",
+      "first_known_usage": "14th century",
+      "example_sentence": "Cast-iron cookware is valued for its perdurable quality, lasting for generations without wearing out.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:41:52.276152",
+      "error_reason": null
+    },
+    "pernicious": {
+      "word": "pernicious",
+      "definition": "having a very harmful, injurious, or deadly effect; causing great injury, destruction, or ruin",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "harmful",
+        "destructive"
+      ],
+      "antonyms": [
+        "harmless",
+        "innocuous"
+      ],
+      "phonetic_spelling": "per-nish-us",
+      "first_known_usage": "15th century",
+      "example_sentence": "The pernicious spread of misinformation undermined public trust in the institution.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:41:55.106381",
+      "error_reason": null
+    },
+    "perspicuous": {
+      "word": "perspicuous",
+      "definition": "clear and easy to understand",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "lucid",
+        "clear"
+      ],
+      "antonyms": [
+        "obscure",
+        "confusing"
+      ],
+      "phonetic_spelling": "per-spik-yoo-uhs",
+      "first_known_usage": "15th century",
+      "example_sentence": "Her perspicuous explanation made the complex subject easy for everyone to understand.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:41:58.274375",
+      "error_reason": null
+    },
+    "pertinacious": {
+      "word": "pertinacious",
+      "definition": "Holding firmly to a purpose, belief, or course of action, often with stubborn or persistent determination.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "determined",
+        "persistent"
+      ],
+      "antonyms": [
+        "yielding",
+        "wavering"
+      ],
+      "phonetic_spelling": "pur-tuh-nay-shus",
+      "first_known_usage": "17th century",
+      "example_sentence": "Despite numerous setbacks, her pertinacious efforts eventually led to the project's success.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:42:04.517271",
+      "error_reason": null
+    },
+    "philippic": {
+      "word": "philippic",
+      "definition": "a bitter verbal attack or denunciation, especially a fiery, damning speech intended to condemn someone or something",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "tirade",
+        "diatribe"
+      ],
+      "antonyms": [
+        "eulogy",
+        "praise"
+      ],
+      "phonetic_spelling": "fi-lip-ik",
+      "first_known_usage": "16th century",
+      "example_sentence": "The senator's speech was a philippic against corruption, sharply criticizing her opponent's record.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:42:08.413034",
+      "error_reason": null
+    },
+    "phlegmatic": {
+      "word": "phlegmatic",
+      "definition": "having an unemotional and stolidly calm disposition; not easily made angry or upset",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "unemotional",
+        "calm"
+      ],
+      "antonyms": [
+        "excitable",
+        "emotional"
+      ],
+      "phonetic_spelling": "fleg-MAD-ik",
+      "first_known_usage": "14th century",
+      "example_sentence": "Even under intense pressure, her phlegmatic nature allowed her to remain composed.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:42:12.623233",
+      "error_reason": null
+    },
+    "physiognomy": {
+      "word": "physiognomy",
+      "definition": "The appearance or features of a person's face, especially as believed to indicate character or personality.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "countenance",
+        "visage"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "fiz-ee-og-nuh-mee",
+      "first_known_usage": "14th century",
+      "example_sentence": "The detective tried to read the suspect's intentions from his physiognomy.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:42:16.104762",
+      "error_reason": null
+    },
+    "piquant": {
+      "word": "piquant",
+      "definition": "having a pleasantly sharp or spicy taste; engagingly stimulating or interesting",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "spicy",
+        "intriguing"
+      ],
+      "antonyms": [
+        "insipid"
+      ],
+      "phonetic_spelling": "pee-kənt",
+      "first_known_usage": "17th century",
+      "example_sentence": "The piquant salsa added a burst of flavor to the dish with its combination of tomatoes, onions, and jalapeños.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:42:19.680217",
+      "error_reason": null
+    },
+    "plash": {
+      "word": "plash",
+      "definition": "a small pool or puddle of standing water; also, the sound or act of a light splash",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "puddle",
+        "splash"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "plash",
+      "first_known_usage": "16th century",
+      "example_sentence": "After the rain, a plash formed beneath the old willow tree, reflecting the cloudy sky.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:42:27.394909",
+      "error_reason": null
+    },
+    "prevaricate": {
+      "word": "prevaricate",
+      "definition": "to avoid giving a direct answer or telling the truth by speaking misleadingly or evasively",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "evade",
+        "lie"
+      ],
+      "antonyms": [
+        "confess",
+        "confront"
+      ],
+      "phonetic_spelling": "pri-vair-i-kayt",
+      "first_known_usage": "16th century",
+      "example_sentence": "When questioned about the missing funds, the manager began to prevaricate instead of giving a straightforward explanation.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:42:31.550473",
+      "error_reason": null
+    },
+    "prolix": {
+      "word": "prolix",
+      "definition": "Using too many words; so lengthy and detailed as to become boring or tiresome.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "verbose",
+        "wordy"
+      ],
+      "antonyms": [
+        "concise",
+        "succinct"
+      ],
+      "phonetic_spelling": "proh-liks",
+      "first_known_usage": "15th century",
+      "example_sentence": "The professor's prolix lecture made it difficult for students to remain attentive.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:42:35.322907",
+      "error_reason": null
+    },
+    "propinquity": {
+      "word": "propinquity",
+      "definition": "the state of being near in space, time, or relationship",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "proximity",
+        "closeness"
+      ],
+      "antonyms": [
+        "distance",
+        "remoteness"
+      ],
+      "phonetic_spelling": "pruh-PING-kwuh-tee",
+      "first_known_usage": "14th century",
+      "example_sentence": "Their propinquity in the office led to a close friendship over time.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:42:38.280197",
+      "error_reason": null
+    },
+    "protean": {
+      "word": "protean",
+      "definition": "Exceptionally versatile, adaptable, or capable of assuming a wide range of forms or qualities.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "versatile",
+        "changeable"
+      ],
+      "antonyms": [
+        "static",
+        "rigid"
+      ],
+      "phonetic_spelling": "proh-tee-uhn",
+      "first_known_usage": "16th century",
+      "example_sentence": "Her protean abilities allowed her to excel in many different roles throughout her career.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:42:41.860350",
+      "error_reason": null
+    },
+    "puissant": {
+      "word": "puissant",
+      "definition": "having great strength or power; mighty; powerful, often used in a literary sense",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "mighty",
+        "powerful"
+      ],
+      "antonyms": [
+        "weak",
+        "powerless"
+      ],
+      "phonetic_spelling": "PWIS-uhnt",
+      "first_known_usage": "15th century",
+      "example_sentence": "The general's puissant leadership inspired his troops to victory.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:42:44.898620",
+      "error_reason": null
+    },
+    "punctilious": {
+      "word": "punctilious",
+      "definition": "very careful about behaving properly and doing things in a correct and accurate way, showing strict attention to detail and formalities",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "meticulous",
+        "precise"
+      ],
+      "antonyms": [
+        "careless"
+      ],
+      "phonetic_spelling": "punk-TIL-ee-uhs",
+      "first_known_usage": "17th century",
+      "example_sentence": "She was so punctilious about organizing her pantry that every shelf had a label.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:42:49.070760",
+      "error_reason": null
+    },
+    "pusillanimous": {
+      "word": "pusillanimous",
+      "definition": "lacking courage or resolution; cowardly or timid",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "timorous",
+        "craven"
+      ],
+      "antonyms": [
+        "brave",
+        "courageous"
+      ],
+      "phonetic_spelling": "pyoo-suh-LAN-uh-mus",
+      "first_known_usage": "15th century",
+      "example_sentence": "The pusillanimous soldier hesitated to enter the battlefield, afraid to face the enemy.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:42:52.696388",
+      "error_reason": null
+    },
+    "putative": {
+      "word": "putative",
+      "definition": "generally considered or reputed to be the case; commonly accepted or assumed as true, often without proof",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "supposed",
+        "assumed"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "pyoo-tuh-tiv",
+      "first_known_usage": "15th century",
+      "example_sentence": "The putative leader of the group was never officially appointed, but everyone followed his decisions.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:42:56.377449",
+      "error_reason": null
+    },
+    "querulous": {
+      "word": "querulous",
+      "definition": "inclined to complain or express dissatisfaction, often in a whining or peevish manner",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "complaining",
+        "whining"
+      ],
+      "antonyms": [
+        "content",
+        "cheerful"
+      ],
+      "phonetic_spelling": "kwer-yuh-luhs",
+      "first_known_usage": "15th century",
+      "example_sentence": "The child replied in a querulous tone that he didn’t want to eat his vegetables.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:43:00.027816",
+      "error_reason": null
+    },
+    "quixotic": {
+      "word": "quixotic",
+      "definition": "Exceedingly idealistic; unrealistic and impractical.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "romantic",
+        "visionary"
+      ],
+      "antonyms": [
+        "practical",
+        "realistic"
+      ],
+      "phonetic_spelling": "kwik-sot-ik",
+      "first_known_usage": "17th century",
+      "example_sentence": "His quixotic plan to single-handedly solve world hunger showed noble intentions but ignored practical realities.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:43:03.763929",
+      "error_reason": null
+    },
+    "rancor": {
+      "word": "rancor",
+      "definition": "a feeling of deep and bitter anger and ill-will, often arising from resentment or a strong dislike for someone because of something they did or said",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "bitterness",
+        "enmity"
+      ],
+      "antonyms": [
+        "friendliness",
+        "goodwill"
+      ],
+      "phonetic_spelling": "rang-ker",
+      "first_known_usage": "13th century",
+      "example_sentence": "Despite years of rivalry, there was no rancor between the two former teammates during the reunion.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:43:06.701948",
+      "error_reason": null
+    },
+    "rapacious": {
+      "word": "rapacious",
+      "definition": "having or showing an excessive or greedy desire to acquire things, often by force or unfair means; aggressively grasping or predatory",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "greedy",
+        "grasping"
+      ],
+      "antonyms": [
+        "generous",
+        "selfless"
+      ],
+      "phonetic_spelling": "ruh-pay-shus",
+      "first_known_usage": "17th century",
+      "example_sentence": "The rapacious business tycoon was notorious for acquiring companies using ruthless tactics.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:43:10.296265",
+      "error_reason": null
+    },
+    "recalcitrant": {
+      "word": "recalcitrant",
+      "definition": "stubbornly resistant to authority, control, or guidance; defiant and uncooperative",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "defiant",
+        "unruly"
+      ],
+      "antonyms": [
+        "compliant",
+        "tractable"
+      ],
+      "phonetic_spelling": "rih-KAL-suh-truhnt",
+      "first_known_usage": "19th century",
+      "example_sentence": "The recalcitrant student refused to follow the teacher's instructions, causing disruption in the classroom.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:43:13.952872",
+      "error_reason": null
+    },
+    "recondite": {
+      "word": "recondite",
+      "definition": "difficult to understand; little known or abstruse, often referring to knowledge or information that is hidden from ordinary understanding",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "abstruse",
+        "obscure"
+      ],
+      "antonyms": [
+        "obvious",
+        "simple"
+      ],
+      "phonetic_spelling": "REK-un-dyte",
+      "first_known_usage": "17th century",
+      "example_sentence": "The professor's lecture was filled with recondite theories that only a handful of experts could fully grasp.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:43:17.784880",
+      "error_reason": null
+    },
+    "redolent": {
+      "word": "redolent",
+      "definition": "strongly reminiscent or suggestive of something; having a strong or pleasant smell",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "evocative",
+        "aromatic"
+      ],
+      "antonyms": [
+        "odorless",
+        "unsuggestive"
+      ],
+      "phonetic_spelling": "RED-uh-luhnt",
+      "first_known_usage": "15th century",
+      "example_sentence": "The kitchen was redolent with the smell of freshly baked bread, bringing back memories of childhood.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:43:21.120530",
+      "error_reason": null
+    },
+    "redoubtable": {
+      "word": "redoubtable",
+      "definition": "inspiring fear or respect; formidable due to strength or qualities",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "formidable",
+        "imposing"
+      ],
+      "antonyms": [
+        "unimpressive",
+        "weak"
+      ],
+      "phonetic_spelling": "ri-dow-tuh-bul",
+      "first_known_usage": "14th century",
+      "example_sentence": "The redoubtable general led his troops with unwavering confidence, earning the respect of both allies and adversaries.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:43:25.406698",
+      "error_reason": null
+    },
+    "refulgent": {
+      "word": "refulgent",
+      "definition": "shining brightly; radiant; glowing; resplendent",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "radiant",
+        "luminous"
+      ],
+      "antonyms": [
+        "dull",
+        "dim"
+      ],
+      "phonetic_spelling": "ri-fuhl-juhnt",
+      "first_known_usage": "16th century",
+      "example_sentence": "The refulgent sun bathed the valley in golden light.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:43:29.296654",
+      "error_reason": null
+    },
+    "remonstrate": {
+      "word": "remonstrate",
+      "definition": "to protest, object, or complain to someone about something, especially in a reasoned or formal way",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "protest",
+        "object"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "ri-mon-strayt",
+      "first_known_usage": "16th century",
+      "example_sentence": "She remonstrated with her colleague about the unfair decision.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:43:32.901074",
+      "error_reason": null
+    },
+    "sachem": {
+      "word": "sachem",
+      "definition": "A chief or leader among some North American Indigenous peoples, especially of the Algonquian tribes; also used more generally to mean a boss or prominent leader.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "chief",
+        "leader"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "SAY-chəm",
+      "first_known_usage": "17th century",
+      "example_sentence": "The council gathered to hear the wisdom of the sachem before making any important decisions.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:43:36.394020",
+      "error_reason": null
+    },
+    "sagacious": {
+      "word": "sagacious",
+      "definition": "having or showing keen mental discernment and good judgment; wise or shrewd",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "wise",
+        "shrewd"
+      ],
+      "antonyms": [
+        "foolish",
+        "unwise"
+      ],
+      "phonetic_spelling": "suh-GAY-shus",
+      "first_known_usage": "17th century",
+      "example_sentence": "She could always rely on her mentor to provide sagacious feedback.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:43:40.761990",
+      "error_reason": null
+    },
+    "sanguine": {
+      "word": "sanguine",
+      "definition": "cheerfully optimistic or confident, especially in a difficult situation; also means blood-red in color or having a ruddy complexion",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "optimistic",
+        "hopeful"
+      ],
+      "antonyms": [
+        "pessimistic",
+        "gloomy"
+      ],
+      "phonetic_spelling": "sang-gwin",
+      "first_known_usage": "14th century",
+      "example_sentence": "Despite the uncertain market, analysts remain sanguine about the company's future growth.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:43:44.163184",
+      "error_reason": null
+    },
+    "sedulous": {
+      "word": "sedulous",
+      "definition": "showing dedication and diligence; working steadily and persistently toward a goal",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "diligent",
+        "assiduous"
+      ],
+      "antonyms": [
+        "lazy",
+        "indolent"
+      ],
+      "phonetic_spelling": "SEH-juh-luhs",
+      "first_known_usage": "16th century",
+      "example_sentence": "Her sedulous efforts in preparing for the exam resulted in top marks.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:43:48.053554",
+      "error_reason": null
+    },
+    "sesquipedalian": {
+      "word": "sesquipedalian",
+      "definition": "Given to or characterized by the use of long words; a word that is very long and multisyllabic.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "verbose",
+        "grandiose"
+      ],
+      "antonyms": [
+        "concise",
+        "simple"
+      ],
+      "phonetic_spelling": "ses-kwi-puh-day-lee-uhn",
+      "first_known_usage": "17th century",
+      "example_sentence": "The professor's sesquipedalian lecture left many students confused by his unnecessarily long and complex vocabulary.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:43:51.495802",
+      "error_reason": null
+    },
+    "sinecure": {
+      "word": "sinecure",
+      "definition": "a paid position or office that requires little or no work",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "cushy job",
+        "gravy train"
+      ],
+      "antonyms": [
+        "burden",
+        "drudgery"
+      ],
+      "phonetic_spelling": "sy-nuh-kyoor",
+      "first_known_usage": "17th century",
+      "example_sentence": "Because he was the brother of the CEO, he was offered a sinecure in the company and received a paycheck without doing much work.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:43:55.445353",
+      "error_reason": null
+    },
+    "solicitous": {
+      "word": "solicitous",
+      "definition": "Showing care, attention, or concern for someone, often with an anxious desire to help or ensure their well-being.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "attentive",
+        "concerned"
+      ],
+      "antonyms": [
+        "unconcerned",
+        "careless"
+      ],
+      "phonetic_spelling": "suh-lis-i-tus",
+      "first_known_usage": "16th century",
+      "example_sentence": "The nurse was solicitous, constantly checking to make sure each patient was comfortable and cared for.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:43:59.649268",
+      "error_reason": null
+    },
+    "somnolent": {
+      "word": "somnolent",
+      "definition": "Sleepy or drowsy; tending to cause sleepiness.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "sleepy",
+        "drowsy"
+      ],
+      "antonyms": [
+        "alert",
+        "wakeful"
+      ],
+      "phonetic_spelling": "som-nuh-lent",
+      "first_known_usage": "15th century",
+      "example_sentence": "The long, somnolent afternoon made everyone in the office struggle to stay awake.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:44:03.377162",
+      "error_reason": null
+    },
+    "sophistry": {
+      "word": "sophistry",
+      "definition": "A subtle, deceptive method of reasoning or arguing that sounds plausible but is actually false or fallacious.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "casuistry",
+        "sophism"
+      ],
+      "antonyms": [
+        "truth",
+        "honesty"
+      ],
+      "phonetic_spelling": "sof-uh-stree",
+      "first_known_usage": "14th century",
+      "example_sentence": "The lawyer's argument was mere sophistry, using clever words to mislead the jury instead of presenting the facts.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:44:07.141754",
+      "error_reason": null
+    },
+    "soporific": {
+      "word": "soporific",
+      "definition": "causing or tending to cause sleep or drowsiness",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "sleep-inducing",
+        "sedative"
+      ],
+      "antonyms": [
+        "stimulating",
+        "invigorating"
+      ],
+      "phonetic_spelling": "sah-puh-rif-ik",
+      "first_known_usage": "17th century",
+      "example_sentence": "The lecture had a soporific effect, and several students struggled to stay awake.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:44:12.343004",
+      "error_reason": null
+    },
+    "sozzle": {
+      "word": "sozzle",
+      "definition": "To splash or wet carelessly; also, a confusedly mingled mass or heap, or an untidy person, especially a woman.",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "splash",
+        "slosh"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "soz-uhl",
+      "first_known_usage": "19th century",
+      "example_sentence": "After running through the puddle, she sozzled her shoes and left muddy footprints across the floor.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:44:16.007870",
+      "error_reason": null
+    },
+    "specious": {
+      "word": "specious",
+      "definition": "Seemingly true, plausible, or attractive but actually false or deceptive.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "fallacious",
+        "spurious"
+      ],
+      "antonyms": [
+        "genuine",
+        "authentic"
+      ],
+      "phonetic_spelling": "spee-shuhs",
+      "first_known_usage": "14th century",
+      "example_sentence": "The politician's specious promises sounded convincing but were quickly proven to be misleading.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:44:20.470690",
+      "error_reason": null
+    },
+    "splenetic": {
+      "word": "splenetic",
+      "definition": "bad-tempered, irritable, or spiteful; marked by ill humor or irritability",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "irritable",
+        "peevish"
+      ],
+      "antonyms": [
+        "calm",
+        "placid"
+      ],
+      "phonetic_spelling": "spluh-net-ik",
+      "first_known_usage": "17th century",
+      "example_sentence": "His splenetic remarks during the meeting made everyone uncomfortable.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:44:23.274348",
+      "error_reason": null
+    },
+    "stolid": {
+      "word": "stolid",
+      "definition": "calm and not showing emotion or excitement; impassive and unexcitable",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "impassive",
+        "phlegmatic"
+      ],
+      "antonyms": [
+        "emotional",
+        "expressive"
+      ],
+      "phonetic_spelling": "stah-lid",
+      "first_known_usage": "17th century",
+      "example_sentence": "Despite the chaos around him, the stolid guard remained calm and showed no emotion.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:44:26.665525",
+      "error_reason": null
+    },
+    "supercilious": {
+      "word": "supercilious",
+      "definition": "Behaving or looking as though one thinks one is superior to others; haughtily disdainful or contemptuous.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "haughty",
+        "arrogant"
+      ],
+      "antonyms": [
+        "humble",
+        "modest"
+      ],
+      "phonetic_spelling": "soo-per-sil-ee-us",
+      "first_known_usage": "16th century",
+      "example_sentence": "She gave a supercilious glance at her coworkers, as if their opinions were beneath her.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:44:29.933450",
+      "error_reason": null
+    },
+    "surfeit": {
+      "word": "surfeit",
+      "definition": "an excessive amount of something, especially related to overindulgence in food or drink",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "excess",
+        "glut"
+      ],
+      "antonyms": [
+        "lack",
+        "scarcity"
+      ],
+      "phonetic_spelling": "sur-fit",
+      "first_known_usage": "14th century",
+      "example_sentence": "The guests left the banquet with a surfeit of rich food, feeling uncomfortably full.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:44:33.388441",
+      "error_reason": null
+    },
+    "sybaritic": {
+      "word": "sybaritic",
+      "definition": "Devoted to or characterized by luxury, pleasure, or self-indulgence; loving or involving expensive things and sensuous enjoyment.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "hedonistic",
+        "self-indulgent"
+      ],
+      "antonyms": [
+        "austere",
+        "ascetic"
+      ],
+      "phonetic_spelling": "sib-uh-RIT-ik",
+      "first_known_usage": "17th century",
+      "example_sentence": "They spent a sybaritic weekend at the resort, enjoying gourmet meals and luxurious spa treatments.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:44:37.920731",
+      "error_reason": null
+    },
+    "syllogism": {
+      "word": "syllogism",
+      "definition": "A form of deductive reasoning in which a conclusion is drawn from two given or assumed premises, typically involving a major and minor premise leading to a logical conclusion.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "deduction",
+        "argument"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "sil-uh-jiz-um",
+      "first_known_usage": "14th century",
+      "example_sentence": "The classic syllogism, 'All humans are mortal; Socrates is human; therefore, Socrates is mortal,' demonstrates deductive logic clearly.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:44:42.279889",
+      "error_reason": null
+    },
+    "taciturn": {
+      "word": "taciturn",
+      "definition": "habitually silent, reserved in speech, or uncommunicative; not inclined to conversation",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "reticent",
+        "uncommunicative"
+      ],
+      "antonyms": [
+        "talkative",
+        "loquacious"
+      ],
+      "phonetic_spelling": "tas-i-turn",
+      "first_known_usage": "17th century",
+      "example_sentence": "Despite being surrounded by chatty coworkers, the taciturn engineer rarely joined in their conversations.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:44:45.669430",
+      "error_reason": null
+    },
+    "tautology": {
+      "word": "tautology",
+      "definition": "The use of different words or phrases to say the same thing twice in the same statement, creating needless repetition or redundancy.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "redundancy",
+        "repetition"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "taw-tol-uh-jee",
+      "first_known_usage": "16th century",
+      "example_sentence": "The phrase 'free gift' is a tautology because all gifts are free by definition.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:44:48.675161",
+      "error_reason": null
+    },
+    "temporize": {
+      "word": "temporize",
+      "definition": "to avoid making a decision or giving a definite answer in order to gain time or postpone action",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "stall",
+        "procrastinate"
+      ],
+      "antonyms": [
+        "decide",
+        "conclude"
+      ],
+      "phonetic_spelling": "tem-puh-rahyz",
+      "first_known_usage": "16th century",
+      "example_sentence": "The committee continued to temporize, delaying the final decision until more information could be gathered.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:44:52.871982",
+      "error_reason": null
+    },
+    "tendentious": {
+      "word": "tendentious",
+      "definition": "expressing or supporting a particular point of view, especially a controversial or biased one",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "biased",
+        "partisan"
+      ],
+      "antonyms": [
+        "objective",
+        "impartial"
+      ],
+      "phonetic_spelling": "ten-den-shus",
+      "first_known_usage": "early 20th century",
+      "example_sentence": "The article was criticized for its tendentious tone, which favored one side of the debate over the other.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:44:56.661193",
+      "error_reason": null
+    },
+    "tergiversate": {
+      "word": "tergiversate",
+      "definition": "To evade or equivocate in speech or action, often by using subterfuge, or to change sides or desert a cause.",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "prevaricate",
+        "equivocate"
+      ],
+      "antonyms": [
+        "confront",
+        "commit"
+      ],
+      "phonetic_spelling": "tur-JIV-er-sayt",
+      "first_known_usage": "17th century",
+      "example_sentence": "The spokesperson continued to tergiversate, refusing to give a clear answer to the reporter's questions.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:45:01.063071",
+      "error_reason": null
+    },
+    "tippler": {
+      "word": "tippler",
+      "definition": "a person who habitually drinks alcoholic liquor, especially to excess",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "drunkard",
+        "bibber"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "tip-lur",
+      "first_known_usage": "16th century",
+      "example_sentence": "The old tippler could often be found at the pub, nursing a pint long after everyone else had gone home.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:45:04.874638",
+      "error_reason": null
+    },
+    "torpid": {
+      "word": "torpid",
+      "definition": "Mentally or physically inactive; sluggish or lethargic, often lacking energy or enthusiasm.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "sluggish",
+        "lethargic"
+      ],
+      "antonyms": [
+        "energetic",
+        "active"
+      ],
+      "phonetic_spelling": "tor-pid",
+      "first_known_usage": "17th century",
+      "example_sentence": "The heat of the afternoon sun made everyone feel torpid and unwilling to move.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:45:07.719660",
+      "error_reason": null
+    },
+    "trenchant": {
+      "word": "trenchant",
+      "definition": "expressed sharply, clearly, and forcefully, especially when describing criticism, remarks, or wit",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "incisive",
+        "biting"
+      ],
+      "antonyms": [
+        "bland",
+        "vague"
+      ],
+      "phonetic_spelling": "tren-chənt",
+      "first_known_usage": "13th century",
+      "example_sentence": "The journalist's trenchant analysis of the government's policies sparked intense public debate.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:45:11.917110",
+      "error_reason": null
+    },
+    "truculent": {
+      "word": "truculent",
+      "definition": "eager or quick to argue or fight; aggressively defiant or hostile",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "belligerent",
+        "hostile"
+      ],
+      "antonyms": [
+        "peaceful",
+        "gentle"
+      ],
+      "phonetic_spelling": "truhk-yuh-luhnt",
+      "first_known_usage": "16th century",
+      "example_sentence": "The player's truculent response to the referee's decision led to a heated argument on the field.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:45:15.297486",
+      "error_reason": null
+    },
+    "turpitude": {
+      "word": "turpitude",
+      "definition": "very immoral behavior; baseness, depravity, or wickedness",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "depravity",
+        "wickedness"
+      ],
+      "antonyms": [
+        "virtue",
+        "morality"
+      ],
+      "phonetic_spelling": "tur-pi-tood",
+      "first_known_usage": "15th century",
+      "example_sentence": "The company's history of fraud revealed a pattern of turpitude that shocked everyone.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:45:18.308625",
+      "error_reason": null
+    },
+    "umbrage": {
+      "word": "umbrage",
+      "definition": "a feeling of being offended or upset by something someone has said or done",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "resentment",
+        "offence"
+      ],
+      "antonyms": [
+        "pleasure",
+        "satisfaction"
+      ],
+      "phonetic_spelling": "um-brij",
+      "first_known_usage": "15th century",
+      "example_sentence": "She took umbrage at the critical comments about her presentation.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:45:21.457091",
+      "error_reason": null
+    },
+    "unctuous": {
+      "word": "unctuous",
+      "definition": "Excessively flattering, ingratiating, or insincerely earnest in manner or speech, often in a way that is unpleasant or false; also used to describe something oily or greasy in texture.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "obsequious",
+        "smarmy"
+      ],
+      "antonyms": [
+        "sincere",
+        "straightforward"
+      ],
+      "phonetic_spelling": "uhngk-choo-uhs",
+      "first_known_usage": "14th century",
+      "example_sentence": "The salesperson's unctuous compliments made everyone in the room uncomfortable.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:45:24.474841",
+      "error_reason": null
+    },
+    "upbraid": {
+      "word": "upbraid",
+      "definition": "to scold or criticize someone sharply for something they have done wrong",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "reprimand",
+        "rebuke"
+      ],
+      "antonyms": [
+        "praise",
+        "commend"
+      ],
+      "phonetic_spelling": "uhp-brayd",
+      "first_known_usage": "14th century",
+      "example_sentence": "The manager did not hesitate to upbraid the employee for missing the important deadline.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:45:28.551948",
+      "error_reason": null
+    },
+    "usurp": {
+      "word": "usurp",
+      "definition": "to take or seize power or authority without having a legal right to do so, often by force or through wrongful means",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "seize",
+        "take over"
+      ],
+      "antonyms": [
+        "surrender",
+        "relinquish"
+      ],
+      "phonetic_spelling": "yoo-surp",
+      "first_known_usage": "14th century",
+      "example_sentence": "The general tried to usurp control of the government by overthrowing the elected officials.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:45:33.012391",
+      "error_reason": null
+    },
+    "vainglorious": {
+      "word": "vainglorious",
+      "definition": "Showing excessive pride, vanity, or boastfulness, especially about one's achievements or abilities.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "conceited",
+        "arrogant"
+      ],
+      "antonyms": [
+        "humble",
+        "modest"
+      ],
+      "phonetic_spelling": "vayn-GLOR-ee-uhs",
+      "first_known_usage": "15th century",
+      "example_sentence": "The actor's vainglorious acceptance speech irritated many of his colleagues, as he boasted at length about his own talents.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:45:36.408374",
+      "error_reason": null
+    },
+    "venial": {
+      "word": "venial",
+      "definition": "relating to a minor fault or sin that is forgivable and not severely wrong",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "pardonable",
+        "forgivable"
+      ],
+      "antonyms": [
+        "unforgivable",
+        "mortal"
+      ],
+      "phonetic_spelling": "vee-nee-uhl",
+      "first_known_usage": "14th century",
+      "example_sentence": "Forgetting to say thank you is a venial offense, not a major one.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:45:39.770660",
+      "error_reason": null
+    },
+    "veracious": {
+      "word": "veracious",
+      "definition": "habitually truthful; honest and not telling or containing any lies",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "truthful",
+        "honest"
+      ],
+      "antonyms": [
+        "mendacious",
+        "false"
+      ],
+      "phonetic_spelling": "vuh-ray-shuhs",
+      "first_known_usage": "17th century",
+      "example_sentence": "As a veracious journalist, she always reported the facts without exaggeration or bias.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:45:43.277852",
+      "error_reason": null
+    },
+    "verisimilitude": {
+      "word": "verisimilitude",
+      "definition": "the quality of seeming to be true or real",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "authenticity",
+        "truth"
+      ],
+      "antonyms": [
+        "falseness",
+        "unreality"
+      ],
+      "phonetic_spelling": "vair-uh-sih-MIL-ih-tood",
+      "first_known_usage": "17th century",
+      "example_sentence": "The novel's dialogue added verisimilitude, making the characters and events feel believable and true to life.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:45:46.908579",
+      "error_reason": null
+    },
+    "vertiginous": {
+      "word": "vertiginous",
+      "definition": "Causing vertigo or dizziness, especially by being extremely high or steep; relating to or affected by a sensation of spinning or whirling.",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "dizzying",
+        "giddy"
+      ],
+      "antonyms": [
+        "stable",
+        "steady"
+      ],
+      "phonetic_spelling": "ver-tij-uh-nus",
+      "first_known_usage": "17th century",
+      "example_sentence": "The mountain climbers paused at the edge of a vertiginous cliff that dropped hundreds of feet below them.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:45:50.069339",
+      "error_reason": null
+    },
+    "vicissitude": {
+      "word": "vicissitude",
+      "definition": "A change of circumstances or fortune, typically one that is unwelcome or unpleasant.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "fluctuation",
+        "upheaval"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "vih-SIS-ih-tood",
+      "first_known_usage": "16th century",
+      "example_sentence": "The family faced the vicissitudes of life with remarkable resilience.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:45:53.337835",
+      "error_reason": null
+    },
+    "vitiate": {
+      "word": "vitiate",
+      "definition": "To spoil, weaken, or make something less effective or invalid; to impair the quality or value of something.",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "invalidate",
+        "corrupt"
+      ],
+      "antonyms": [
+        "strengthen",
+        "validate"
+      ],
+      "phonetic_spelling": "vish-ee-ate",
+      "first_known_usage": "16th century",
+      "example_sentence": "A minor error in the contract could vitiate the entire agreement.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:45:56.974445",
+      "error_reason": null
+    },
+    "vituperate": {
+      "word": "vituperate",
+      "definition": "To speak or write about someone or something in an abusive or harshly critical manner; to berate or revile.",
+      "part_of_speech": "verb",
+      "synonyms": [
+        "berate",
+        "scold"
+      ],
+      "antonyms": [
+        "praise",
+        "commend"
+      ],
+      "phonetic_spelling": "vi-too-puh-rayt",
+      "first_known_usage": "16th century",
+      "example_sentence": "The critic did not simply review the play; he chose to vituperate the actors for every minor flaw.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:46:01.581864",
+      "error_reason": null
+    },
+    "voluble": {
+      "word": "voluble",
+      "definition": "speaking a lot, with confidence, enthusiasm, and a continuous flow of words",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "talkative",
+        "loquacious"
+      ],
+      "antonyms": [
+        "taciturn"
+      ],
+      "phonetic_spelling": "vol-yuh-buhl",
+      "first_known_usage": "16th century",
+      "example_sentence": "The voluble host entertained the guests with stories all evening, barely pausing to breathe.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:46:05.127517",
+      "error_reason": null
+    },
+    "winsome": {
+      "word": "winsome",
+      "definition": "charming and attractive, often in a sweet or youthful way",
+      "part_of_speech": "adjective",
+      "synonyms": [
+        "charming",
+        "delightful"
+      ],
+      "antonyms": [
+        "unpleasant",
+        "unattractive"
+      ],
+      "phonetic_spelling": "win-sum",
+      "first_known_usage": "before 12th century",
+      "example_sentence": "The little girl had a winsome personality that made everyone want to be her friend.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:46:08.552770",
+      "error_reason": null
+    },
+    "zeitgeist": {
+      "word": "zeitgeist",
+      "definition": "the defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "spirit",
+        "mood"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "zite-guyst",
+      "first_known_usage": "19th century",
+      "example_sentence": "The bestselling novel perfectly captured the zeitgeist of the 1960s, reflecting the decade's cultural and social changes.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T08:46:12.071482",
+      "error_reason": null
+    },
+    "lexophile": {
+      "word": "lexophile",
+      "definition": "A lover of words, especially in word games, puzzles, anagrams, and palindromes.",
+      "part_of_speech": "noun",
+      "synonyms": [
+        "logophile"
+      ],
+      "antonyms": [],
+      "phonetic_spelling": "lek-suh-fyle",
+      "first_known_usage": null,
+      "example_sentence": "As a true lexophile, Maria spent her evenings solving crosswords and creating clever puns.",
+      "processing_status": "success",
+      "processed_date": "2025-07-14T09:45:58.541005",
+      "error_reason": null
+    }
+  }
+}

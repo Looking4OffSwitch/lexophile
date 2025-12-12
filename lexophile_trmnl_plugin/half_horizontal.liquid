@@ -1,0 +1,251 @@
+<!-- Template to display a word and its definition in half horizontal layout -->
+<style>
+  /* Main container and layout */
+  .word-card {
+    font-family: serif;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 18px 5px 18px;
+    background-color: #3a2f25;
+    color: #fff;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    height: auto;
+    min-height: 100%;
+    box-sizing: border-box;
+  }
+
+  /* Title bar styles */
+  .title_bar {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 15px;
+    background-color: #333;
+    color: #fff;
+    font-size: 0.85rem;
+  }
+  .title {
+    font-weight: bold;
+  }
+
+  /* Word title and pronunciation styles */
+  .word-title-container {
+    margin-bottom: 2px;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .word-title {
+    font-weight: bold;
+    margin: 0;
+    line-height: 1;
+    word-wrap: break-word;
+    hyphens: auto;
+    font-size: 2.1rem;
+  }
+  .pronunciation-combined {
+    font-style: italic;
+    font-size: 1rem;
+    margin: 0 0 0 5px;
+    text-align: center;
+    display: inline-flex;
+    align-items: center;
+    height: 2.5rem;
+  }
+  .single-horizontal-line {
+    border-bottom: 1px solid #fff;
+    margin: 2px auto 8px;
+    width: 55%;
+    white-space: nowrap;
+  }
+
+  /* Content container and columns */
+  .content-container {
+    display: flex;
+    flex-direction: row;
+    margin: 0 0 5px 0;
+    min-height: 0;
+    flex: auto;
+    padding: 0;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .left-column {
+    width: 50%;
+    padding-right: 10px;
+  }
+  .right-column {
+    width: 50%;
+    padding-left: 10px;
+    border-left: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  .content-scrollable {
+    width: 100%;
+    flex: 1;
+    overflow: auto;
+  }
+  .content-scrollable::-webkit-scrollbar {
+    width: 3px;
+    height: 3px;
+  }
+  .content-scrollable::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 3px;
+  }
+
+  /* Section layout styles */
+  .main-content-row {
+    display: flex;
+    width: 100%;
+    margin-bottom: 5px;
+    padding: 0;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  .def-usage-section {
+    text-align: left;
+    margin-bottom: 5px;
+  }
+
+  /* Section titles and text */
+  .section-title {
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 0 0 1px 0;
+    text-decoration: underline;
+  }
+  .definition-text, .usage-text {
+    font-size: 1.0rem;
+    line-height: 1.2;
+    margin: 0 0 2px 0;
+    overflow-wrap: break-word;
+    max-height: 180px;
+    overflow: auto;
+  }
+
+  /* Synonyms/Antonyms section */
+  .synonym-antonym-section {
+    text-align: center;
+    margin: 0 auto 2px auto;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 80%;
+  }
+  .horizontal-word-lists {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    max-width: 100%;
+  }
+  .word-list-column {
+    flex: 0 1 auto;
+    min-width: 0;
+  }
+  .word-list-column .section-title {
+    text-align: center;
+  }
+  .word-list-column .synonym-text {
+    text-align: center;
+  }
+  .synonym-text {
+    font-size: 0.85rem;
+    line-height: 1.1;
+    margin: 0 0 2px 0;
+    overflow-wrap: break-word;
+  }
+
+  /* Table styles for synonyms and antonyms */
+  .synonym-table,
+  .antonym-table {
+    width: 100%;
+    table-layout: fixed;
+    margin-bottom: 5px;
+    border-collapse: collapse;
+    padding: 0;
+  }
+  .section-title-cell {
+    width: 100%;
+    text-align: center;
+    padding: 0;
+  }
+  .content-cell {
+    text-align: left;
+    padding: 0;
+  }
+</style>
+
+<div class="word-card">
+  <div class="word-title-container">
+    <h1 class="word-title">{{ word.word }}</h1>
+    <p class="pronunciation-combined">: {{ word.part_of_speech }} / {{ word.phonetic_spelling }}</p>
+  </div>
+  <div class="single-horizontal-line"></div>
+
+  <div class="content-container">
+    <div class="left-column">
+      <div class="def-usage-section">
+        <p class="definition-text" style="margin: 0;">
+          <span class="section-title" style="display: inline; margin: 0; text-decoration: underline; font-weight: bold; font-size: 1rem;">Definition:</span>
+          {% if word.definition %}
+            {{ word.definition }}
+          {% else %}
+            No definition available
+          {% endif %}
+        </p>
+      </div>
+    </div>
+    <div class="right-column">
+      <div class="def-usage-section">
+        <p class="usage-text" style="margin: 0;">
+          <span class="section-title" style="display: inline; margin: 0; text-decoration: underline; font-weight: bold; font-size: 1rem;">Usage:</span>
+          {% if word.example_sentence %}
+            {{ word.example_sentence }}
+          {% else %}
+            No usage available
+          {% endif %}
+        </p>
+      </div>
+    </div>
+  </div>
+
+  {% assign definition_length = word.definition | size %}
+  {% assign usage_length = word.example_sentence | size %}
+  {% assign total_length = definition_length | plus: usage_length %}
+  {% if (word.synonyms.size > 0 or word.antonyms.size > 0) and total_length <= 180 %}
+  <div class="synonym-antonym-section">
+    <div class="horizontal-word-lists">
+      {% if word.synonyms.size > 0 %}
+      <div class="word-list-column">
+        <p class="synonym-text" style="margin: 0;">
+          <span class="section-title" style="display: inline; margin: 0; text-decoration: underline; font-weight: bold; font-size: 1rem;">Synonyms:</span>
+          {% for synonym in word.synonyms %}
+            {{ synonym }}{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+        </p>
+      </div>
+      {% endif %}
+      {% if word.antonyms.size > 0 %}
+      <div class="word-list-column">
+        <p class="synonym-text" style="margin: 0;">
+          <span class="section-title" style="display: inline; margin: 0; text-decoration: underline; font-weight: bold; font-size: 1rem;">Antonyms:</span>
+          {% for antonym in word.antonyms %}
+            {{ antonym }}{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+        </p>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  {% endif %}
+</div>
+
+<div class="title_bar">
+    <span class="title">Lexophile</span>
+    <span class="instance">Words Unlock Worlds</span>
+</div>
