@@ -53,17 +53,13 @@ ENV PATH=/home/appuser/.local/bin:$PATH
 # Switch to non-root user
 USER appuser
 
-# Expose port 8080 (standard for web services)
-EXPOSE 8080
+# Expose port 3000 (Coolify default)
+EXPOSE 3000
 
 # Set environment variables
-ENV PORT=8080
+ENV PORT=3000
 ENV PYTHONUNBUFFERED=1
 ENV WORKERS=1
-
-# Health check to ensure the application is running
-HEALTHCHECK --interval=30s --timeout=10s --start-period=40s --retries=3 \
-    CMD python -c "import urllib.request; urllib.request.urlopen('http://localhost:8080/health').read()" || exit 1
 
 # Run the application with gunicorn
 # Workers: Default to 1 for this lightweight API. Increase via WORKERS env var if needed.
