@@ -1,8 +1,6 @@
-# Word List Python Server
+# Lexophile
 
-A Python implementation of a Word List API server that provides random vocabulary words for the trmnl plugin.
-
-Designed for production deployment on VPS using Coolify with Docker.
+A simple API server that provides random vocabulary words for the trmnl plugin.
 
 ## Requirements
 
