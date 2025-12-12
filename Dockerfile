@@ -2,7 +2,7 @@
 # Optimized for production deployment on Coolify
 
 # Build stage - for installing dependencies
-FROM python:3.12-slim as builder
+FROM python:3.12-slim AS builder
 
 # Set working directory
 WORKDIR /app
@@ -13,18 +13,18 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     curl \
     && rm -rf /var/lib/apt/lists/*
 
-# Install uv
+# Install uv (installs into /root/.local/bin by default) and add to PATH
 RUN curl -LsSf https://astral.sh/uv/install.sh | sh
-ENV PATH="/root/.cargo/bin:$PATH"
+ENV PATH="/root/.local/bin:$PATH"
 
 # Copy project configuration
 COPY pyproject.toml .
 
-# Install Python dependencies to a local directory
+# Install Python dependencies into system site-packages
 RUN uv pip install --system --no-cache .
 
 # Production stage - minimal image for running the app
-FROM python:3.12-slim
+FROM python:3.12-slim AS runtime
 
 # Set working directory
 WORKDIR /app
@@ -36,7 +36,10 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 # Create a non-root user to run the application
 RUN useradd -m -u 1000 appuser && chown -R appuser:appuser /app
 
-# Copy Python dependencies from builder stage
+# Copy Python dependencies and binaries from builder stage
+COPY --from=builder /usr/local/lib/python3.12 /usr/local/lib/python3.12
+COPY --from=builder /usr/local/bin /usr/local/bin
+# (optional) retain any user-local installs from builder
 COPY --from=builder --chown=appuser:appuser /root/.local /home/appuser/.local
 
 # Copy application files
@@ -65,4 +68,4 @@ HEALTHCHECK --interval=30s --timeout=10s --start-period=40s --retries=3 \
 # Run the application with gunicorn
 # Workers: Default to 1 for this lightweight API. Increase via WORKERS env var if needed.
 # For high traffic: use (2 * CPU cores) + 1
-CMD gunicorn --bind 0.0.0.0:${PORT} --workers ${WORKERS} --timeout 120 --access-logfile - --error-logfile - app:app
+CMD ["sh", "-c", "exec gunicorn --bind 0.0.0.0:${PORT} --workers ${WORKERS} --timeout 120 --access-logfile - --error-logfile - app:app"]

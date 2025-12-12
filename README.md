@@ -180,6 +180,25 @@ Response:
 
 This application is containerized and ready for deployment on any Docker-based platform, including Coolify.
 
+### Docker (local) quick commands
+
+```bash
+# Build the image
+docker build -t lexophile-test .
+
+# Run the container (exposes http://localhost:8080)
+docker run --rm -d -p 8080:8080 --name lexophile-test-run lexophile-test
+
+# (Optional) set worker count
+# docker run --rm -d -p 8080:8080 -e WORKERS=2 --name lexophile-test-run lexophile-test
+
+# Check health
+curl http://localhost:8080/health
+
+# Stop the container
+docker stop lexophile-test-run
+```
+
 ### Prerequisites
 
 - Coolify instance running on your VPS
